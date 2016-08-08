@@ -1,0 +1,7070 @@
+{
+  "sadrzajiRefTabela": [
+    {
+      "naziv": "SifMesta",
+      "sadrzaj": [
+        {
+          "sifMesta": "00105 ",
+          "nazivMesta": "KARANOVAC",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00109 ",
+          "nazivMesta": "KOLA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00114 ",
+          "nazivMesta": "KRUPA NA VRBASU",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00117 ",
+          "nazivMesta": "KULJANI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00122 ",
+          "nazivMesta": "LUSICI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00129 ",
+          "nazivMesta": "MOTIKE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00142 ",
+          "nazivMesta": "PISKAVICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00149 ",
+          "nazivMesta": "POTKOZARJE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00152 ",
+          "nazivMesta": "PRIJEČANI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00158 ",
+          "nazivMesta": "RAMIĆI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00163 ",
+          "nazivMesta": "REKAVICE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00171 ",
+          "nazivMesta": "STRIČIĆI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00172 ",
+          "nazivMesta": "ŠARGOVAC",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00183 ",
+          "nazivMesta": "TRNJACI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00188 ",
+          "nazivMesta": "VERIĆI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00190 ",
+          "nazivMesta": "VLASENICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00198 ",
+          "nazivMesta": "Mrkonjic Grad",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00199 ",
+          "nazivMesta": "BIJELI POTOK",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00200 ",
+          "nazivMesta": "GOLEŠI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00201 ",
+          "nazivMesta": "SARAČICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00195 ",
+          "nazivMesta": "ZALUŽANI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00222 ",
+          "nazivMesta": "GORNJI KARAJZOVCI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00223 ",
+          "nazivMesta": "GORNJI PERVAN",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00238 ",
+          "nazivMesta": "MIRUŠE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00246 ",
+          "nazivMesta": "SRPSKI MILANOVAC",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00254 ",
+          "nazivMesta": "AGINO SELO",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "00255 ",
+          "nazivMesta": "KRMINE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "10002 ",
+          "nazivMesta": "DONJA KOLA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "10294 ",
+          "nazivMesta": "ZELENCI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "10501 ",
+          "nazivMesta": "LAMOVITA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11176 ",
+          "nazivMesta": "BISTRICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11177 ",
+          "nazivMesta": "HAN KOLA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11178 ",
+          "nazivMesta": "GORNJA PISKAVICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11179 ",
+          "nazivMesta": "DONJA PISKAVICA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11182 ",
+          "nazivMesta": "JOŠAVKA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11184 ",
+          "nazivMesta": "VRBANJA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "11185 ",
+          "nazivMesta": "MIŠIN HAN",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "12996 ",
+          "nazivMesta": "AMIDŽIĆI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "13368 ",
+          "nazivMesta": "ŠTRBE",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "33    ",
+          "nazivMesta": "BANJA LUKA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "45    ",
+          "nazivMesta": "ADA",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "48    ",
+          "nazivMesta": "BARLOVCI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "50    ",
+          "nazivMesta": "BOČAC",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "52    ",
+          "nazivMesta": "BORKOVIĆI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "56    ",
+          "nazivMesta": "BRONZANI MAJDAN",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "69    ",
+          "nazivMesta": "DONJI KARAJZOVCI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "70    ",
+          "nazivMesta": "DONJI PERVAN",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "63    ",
+          "nazivMesta": "DEBELJACI",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "76    ",
+          "nazivMesta": "DRAGOČAJ",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "77    ",
+          "nazivMesta": "DRAKULIĆ",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "87    ",
+          "nazivMesta": "GLOGOVAC",
+          "sifOpstine": "Banja Luka-00262"
+        },
+        {
+          "sifMesta": "13365 ",
+          "nazivMesta": "ČAĐAVICA GORNJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "13366 ",
+          "nazivMesta": "KOJČINOVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "13050 ",
+          "nazivMesta": "ZAGONI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12959 ",
+          "nazivMesta": "ČARDAČINE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12960 ",
+          "nazivMesta": "DAZDAREVO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12961 ",
+          "nazivMesta": "MAGNOJEVIĆ DONJI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12962 ",
+          "nazivMesta": "MAGNOJEVIĆ GORNJI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12963 ",
+          "nazivMesta": "SUVO POLJE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "13166 ",
+          "nazivMesta": "TRIJEŠNICA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "13345 ",
+          "nazivMesta": "JOHOVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "13346 ",
+          "nazivMesta": "ČAĐAVICA SREDNJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12199 ",
+          "nazivMesta": "NOVO NASELJE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12665 ",
+          "nazivMesta": "UDRIGOVO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12685 ",
+          "nazivMesta": "BOGDANOVIĆI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12705 ",
+          "nazivMesta": "BREZOVO POLJE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12725 ",
+          "nazivMesta": "ČAĐAVICA DONJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12728 ",
+          "nazivMesta": "BANJICA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12745 ",
+          "nazivMesta": "PUČILE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12952 ",
+          "nazivMesta": "GORNJA TRNOVA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12978 ",
+          "nazivMesta": "DIJELOVI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12979 ",
+          "nazivMesta": "GLAVIČORAK",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12980 ",
+          "nazivMesta": "KACEVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12981 ",
+          "nazivMesta": "MEĐAŠI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12982 ",
+          "nazivMesta": "MAGNOJEVIĆ SREDNJI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12983 ",
+          "nazivMesta": "LJESKOVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12984 ",
+          "nazivMesta": "RUHOTINA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "12985 ",
+          "nazivMesta": "VELINO SELO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11232 ",
+          "nazivMesta": "GLOGOVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11238 ",
+          "nazivMesta": "ČENGIĆ",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11235 ",
+          "nazivMesta": "MODRAN",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11236 ",
+          "nazivMesta": "NOVA JANJA (LUGOVI)",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11195 ",
+          "nazivMesta": "AMAJLIJE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11196 ",
+          "nazivMesta": "BALATUN",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11197 ",
+          "nazivMesta": "BUKOVICA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11198 ",
+          "nazivMesta": "HASE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11199 ",
+          "nazivMesta": "LJELJENČA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11200 ",
+          "nazivMesta": "MAGNOJEVIĆ",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11201 ",
+          "nazivMesta": "OBARSKA 2",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11202 ",
+          "nazivMesta": "PATKOVAČA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11203 ",
+          "nazivMesta": "POPOVI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11204 ",
+          "nazivMesta": "RAČA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "11205 ",
+          "nazivMesta": "ČAĐAVICA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "10164 ",
+          "nazivMesta": "KORAJ",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "10165 ",
+          "nazivMesta": "LOPARE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00570 ",
+          "nazivMesta": "BIJELJINA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00301 ",
+          "nazivMesta": "JANJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00302 ",
+          "nazivMesta": "BRODAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00303 ",
+          "nazivMesta": "DOROVI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00304 ",
+          "nazivMesta": "VRŠANI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00305 ",
+          "nazivMesta": "ZABRĐE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00306 ",
+          "nazivMesta": "DVOROVI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00307 ",
+          "nazivMesta": "TRNJACI",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00308 ",
+          "nazivMesta": "BATKOVIĆ",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00309 ",
+          "nazivMesta": "BIJELJNA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00310 ",
+          "nazivMesta": "RAŽLJEVO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00311 ",
+          "nazivMesta": "UGLJEVIK",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00313 ",
+          "nazivMesta": "CRNJELOVO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00314 ",
+          "nazivMesta": "GLAVIČICE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00315 ",
+          "nazivMesta": "SUHO POLJE",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00316 ",
+          "nazivMesta": "DRAGALJEVAC",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00317 ",
+          "nazivMesta": "DONJA TRNOVA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00318 ",
+          "nazivMesta": "TRNOVA DONJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00319 ",
+          "nazivMesta": "TRNOVA GORNJA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00320 ",
+          "nazivMesta": "VELIKA OBARSKA",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00321 ",
+          "nazivMesta": "DONJE CRNJELOVO",
+          "sifOpstine": "Bijeljina-00301"
+        },
+        {
+          "sifMesta": "00322 ",
+          "nazivMesta": "BILEĆA",
+          "sifOpstine": "Bileća-00302"
+        },
+        {
+          "sifMesta": "10459 ",
+          "nazivMesta": "BERKOVIĆI",
+          "sifOpstine": "Bileća-00302"
+        },
+        {
+          "sifMesta": "00323 ",
+          "nazivMesta": "ZVORNIK",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "00324 ",
+          "nazivMesta": "ABDULIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "00325 ",
+          "nazivMesta": "BRATUNAC",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "00326 ",
+          "nazivMesta": "MAGAŠIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "00327 ",
+          "nazivMesta": "BRANA BAČIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "00328 ",
+          "nazivMesta": "DONJA PILICA",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11243 ",
+          "nazivMesta": "KRAVICA",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11426 ",
+          "nazivMesta": "FAKOVIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11544 ",
+          "nazivMesta": "LONJIN",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11545 ",
+          "nazivMesta": "SLAPAŠNICA",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11546 ",
+          "nazivMesta": "KRASANPOLJE",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11547 ",
+          "nazivMesta": "OSAMSKO",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11548 ",
+          "nazivMesta": "DUBRAVICE",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11549 ",
+          "nazivMesta": "POLOM",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11855 ",
+          "nazivMesta": "RADIJEVIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11856 ",
+          "nazivMesta": "ŽLIJEBAC",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11857 ",
+          "nazivMesta": "TEGARE",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11858 ",
+          "nazivMesta": "KONJEVIĆ POLJE",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "11862 ",
+          "nazivMesta": "BOLJEVIĆI",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "13147 ",
+          "nazivMesta": "REPETITOR KIK",
+          "sifOpstine": "Bratunac-00303"
+        },
+        {
+          "sifMesta": "13165 ",
+          "nazivMesta": "STANOVI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "13546 ",
+          "nazivMesta": "TRNJACI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12905 ",
+          "nazivMesta": "VIDACI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12927 ",
+          "nazivMesta": "BREZIK",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12928 ",
+          "nazivMesta": "SANDIĆI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12929 ",
+          "nazivMesta": "BUZEKARA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12930 ",
+          "nazivMesta": "KLANAC",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "12945 ",
+          "nazivMesta": "ČAĐAVAC",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "11670 ",
+          "nazivMesta": "STARI BROD",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "11355 ",
+          "nazivMesta": "ŠATOROVIĆI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00329 ",
+          "nazivMesta": "BRČKO",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00331 ",
+          "nazivMesta": "CRKVINA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00332 ",
+          "nazivMesta": "LONČARI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00333 ",
+          "nazivMesta": "PELAGIĆEVO",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00334 ",
+          "nazivMesta": "DONJI ŽABAR",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00335 ",
+          "nazivMesta": "BREZOVO POLJE",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00336 ",
+          "nazivMesta": "DONJA SLATINA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10155 ",
+          "nazivMesta": "POTOČARI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10334 ",
+          "nazivMesta": "DONJI BREZIK",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10335 ",
+          "nazivMesta": "RAŽLJEVO",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10354 ",
+          "nazivMesta": "KREPŠIĆ",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10581 ",
+          "nazivMesta": "DUBRAVE",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10642 ",
+          "nazivMesta": "BRKA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "11151 ",
+          "nazivMesta": "GORNJI RAHIĆ",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "10933 ",
+          "nazivMesta": "SEONJACI",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "11042 ",
+          "nazivMesta": "MAOČA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "11086 ",
+          "nazivMesta": "BOSANSKA BIJELA",
+          "sifOpstine": "Brčko-00304"
+        },
+        {
+          "sifMesta": "00337 ",
+          "nazivMesta": "DOBOJ",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00338 ",
+          "nazivMesta": "OSINJA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00339 ",
+          "nazivMesta": "MIŠINCI",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00340 ",
+          "nazivMesta": "DERVENTA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00341 ",
+          "nazivMesta": "SOČANICA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00342 ",
+          "nazivMesta": "KALENDEROVCI",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00343 ",
+          "nazivMesta": "MALA SOČANICA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00344 ",
+          "nazivMesta": "BOSANSKI KOBAŠ",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "00345 ",
+          "nazivMesta": "VELIKA SOČANICA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "11333 ",
+          "nazivMesta": "BOSANSKI LUŽANI\r\n",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "11456 ",
+          "nazivMesta": "DONJI VIŠNJIK",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "12908 ",
+          "nazivMesta": "LUŽANI",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "12865 ",
+          "nazivMesta": "GLOGOVICA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "12046 ",
+          "nazivMesta": "BREZICI",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "13367 ",
+          "nazivMesta": "DONJI DETLAK",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "13148 ",
+          "nazivMesta": "GRADINA",
+          "sifOpstine": "Derventa-00305"
+        },
+        {
+          "sifMesta": "13086 ",
+          "nazivMesta": "MUSTAFICE",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "13047 ",
+          "nazivMesta": "CIGANIŠTE",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "12013 ",
+          "nazivMesta": "BRESTOVO",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "12179 ",
+          "nazivMesta": "BUKOVICA MALA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "12866 ",
+          "nazivMesta": "RITEŠIĆ",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "12848 ",
+          "nazivMesta": "VRANDUK",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "11332 ",
+          "nazivMesta": "SJENINA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "11247 ",
+          "nazivMesta": "PLOČNIK",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "11420 ",
+          "nazivMesta": "BRIJESNICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00346 ",
+          "nazivMesta": "DOBOJ",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00347 ",
+          "nazivMesta": "BOŽINCI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00348 ",
+          "nazivMesta": "MAJEVAC",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00349 ",
+          "nazivMesta": "OSREDAK",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00350 ",
+          "nazivMesta": "STANARI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00351 ",
+          "nazivMesta": "BOLJANIĆ",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00352 ",
+          "nazivMesta": "CEROVICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00353 ",
+          "nazivMesta": "KOTORSKO",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00354 ",
+          "nazivMesta": "OSJEČANI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00356 ",
+          "nazivMesta": "TEKUĆICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00357 ",
+          "nazivMesta": "VITKOVCI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00358 ",
+          "nazivMesta": "MILJKOVAC",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00359 ",
+          "nazivMesta": "PODNOVLJE",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00360 ",
+          "nazivMesta": "DRAGALOVCI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00361 ",
+          "nazivMesta": "KOSTAJNICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00362 ",
+          "nazivMesta": "SUVO POLJE",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00363 ",
+          "nazivMesta": "DONJA RADNJA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00365 ",
+          "nazivMesta": "MALI PRNJAVOR",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "00366 ",
+          "nazivMesta": "VELIKA BUKOVICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "10788 ",
+          "nazivMesta": "STANIĆ RIJEKA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "10314 ",
+          "nazivMesta": "STANOVI",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "10152 ",
+          "nazivMesta": "PAKLENICA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "10153 ",
+          "nazivMesta": "SJENINA RIJEKA",
+          "sifOpstine": "Doboj-00306"
+        },
+        {
+          "sifMesta": "10980 ",
+          "nazivMesta": "AVTOVAC",
+          "sifOpstine": "Gacko-00307"
+        },
+        {
+          "sifMesta": "00367 ",
+          "nazivMesta": "GACKO",
+          "sifOpstine": "Gacko-00307"
+        },
+        {
+          "sifMesta": "11440 ",
+          "nazivMesta": "FOJNICA",
+          "sifOpstine": "Gacko-00307"
+        },
+        {
+          "sifMesta": "13405 ",
+          "nazivMesta": "LEBRŠNIK",
+          "sifOpstine": "Gacko-00307"
+        },
+        {
+          "sifMesta": "13657 ",
+          "nazivMesta": "ŽEP",
+          "sifOpstine": "Han Pijesak-00308"
+        },
+        {
+          "sifMesta": "00368 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Han Pijesak-00308"
+        },
+        {
+          "sifMesta": "00369 ",
+          "nazivMesta": "HAN PIJESAK",
+          "sifOpstine": "Han Pijesak-00308"
+        },
+        {
+          "sifMesta": "00370 ",
+          "nazivMesta": "KASINDO",
+          "sifOpstine": "Kasindol-00309"
+        },
+        {
+          "sifMesta": "00371 ",
+          "nazivMesta": "DOBRINJA",
+          "sifOpstine": "Kasindol-00309"
+        },
+        {
+          "sifMesta": "00372 ",
+          "nazivMesta": "VOJKOVIĆI",
+          "sifOpstine": "Kasindol-00309"
+        },
+        {
+          "sifMesta": "00373 ",
+          "nazivMesta": "DONJE MLADICE",
+          "sifOpstine": "Kasindol-00309"
+        },
+        {
+          "sifMesta": "00374 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Kalinovik-00310"
+        },
+        {
+          "sifMesta": "00375 ",
+          "nazivMesta": "KALINOVIK",
+          "sifOpstine": "Kalinovik-00310"
+        },
+        {
+          "sifMesta": "11399 ",
+          "nazivMesta": "ULOG",
+          "sifOpstine": "Kalinovik-00310"
+        },
+        {
+          "sifMesta": "11735 ",
+          "nazivMesta": "GRDANOVAC",
+          "sifOpstine": "Kostajnica-00311"
+        },
+        {
+          "sifMesta": "12148 ",
+          "nazivMesta": "BABINAC",
+          "sifOpstine": "Kostajnica-00311"
+        },
+        {
+          "sifMesta": "00376 ",
+          "nazivMesta": "KOSTAJNICA",
+          "sifOpstine": "Kostajnica-00311"
+        },
+        {
+          "sifMesta": "00377 ",
+          "nazivMesta": "SRPSKA PETRINJA",
+          "sifOpstine": "Kostajnica-00311"
+        },
+        {
+          "sifMesta": "00378 ",
+          "nazivMesta": "AGINCI",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00379 ",
+          "nazivMesta": "JOHOVA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00380 ",
+          "nazivMesta": "KNEŽICA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00381 ",
+          "nazivMesta": "MEĐUVOĐE",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00382 ",
+          "nazivMesta": "SLABINJA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00383 ",
+          "nazivMesta": "DEMIROVAC",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00384 ",
+          "nazivMesta": "MLJEČANICA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "00385 ",
+          "nazivMesta": "KOZARSKA DUBICA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "13670 ",
+          "nazivMesta": "DRAKSENIĆ",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "13151 ",
+          "nazivMesta": "MEĐEĐA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "11587 ",
+          "nazivMesta": "SREFLIJE",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "11371 ",
+          "nazivMesta": "MOŠTANICA",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "11451 ",
+          "nazivMesta": "KOZARSKA DUB",
+          "sifOpstine": "Kozarska Dubica-00312"
+        },
+        {
+          "sifMesta": "11522 ",
+          "nazivMesta": "ŽEGULJA",
+          "sifOpstine": "Ljubinje-00313"
+        },
+        {
+          "sifMesta": "13646 ",
+          "nazivMesta": "LJUBOMIŠLJE",
+          "sifOpstine": "Ljubinje-00313"
+        },
+        {
+          "sifMesta": "12262 ",
+          "nazivMesta": "HUTOVO",
+          "sifOpstine": "Ljubinje-00313"
+        },
+        {
+          "sifMesta": "00386 ",
+          "nazivMesta": "LJUBINJE",
+          "sifOpstine": "Ljubinje-00313"
+        },
+        {
+          "sifMesta": "10848 ",
+          "nazivMesta": "POPOVO POLJE",
+          "sifOpstine": "Ljubinje-00313"
+        },
+        {
+          "sifMesta": "11226 ",
+          "nazivMesta": "LIPOVICE",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "11227 ",
+          "nazivMesta": "DŽEMAT",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "11228 ",
+          "nazivMesta": "LOPARE SELO",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00387 ",
+          "nazivMesta": "KORAJ",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00388 ",
+          "nazivMesta": "LOPARE",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00389 ",
+          "nazivMesta": "PIPERI",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00390 ",
+          "nazivMesta": "PRIBOJ",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00391 ",
+          "nazivMesta": "RAŽLJEVO",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00392 ",
+          "nazivMesta": "UGLJEVIK",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "00393 ",
+          "nazivMesta": "BIJELJINA",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12926 ",
+          "nazivMesta": "MRTVICA",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12986 ",
+          "nazivMesta": "BOBETINO BRDO",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12987 ",
+          "nazivMesta": "JABLANICA",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12988 ",
+          "nazivMesta": "MAČKOVAC",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12989 ",
+          "nazivMesta": "PIRKOVCI",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12990 ",
+          "nazivMesta": "SMILJEVAC",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12991 ",
+          "nazivMesta": "VAKUF",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12992 ",
+          "nazivMesta": "VUKOSAVCI",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "12964 ",
+          "nazivMesta": "BRUSNICA",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "13005 ",
+          "nazivMesta": "LABUCKA",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "13006 ",
+          "nazivMesta": "PELJAVE",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "13007 ",
+          "nazivMesta": "TOBUT",
+          "sifOpstine": "Lopare-00314"
+        },
+        {
+          "sifMesta": "11245 ",
+          "nazivMesta": "VUKŠIĆ POLJE",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "11246 ",
+          "nazivMesta": "ĐUGUM",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "11239 ",
+          "nazivMesta": "BIŠINA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "11240 ",
+          "nazivMesta": "DUBNICA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "11241 ",
+          "nazivMesta": "GLUŠAC",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "11242 ",
+          "nazivMesta": "KALDRMICA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00394 ",
+          "nazivMesta": "ĐILE",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00395 ",
+          "nazivMesta": "DUKIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00396 ",
+          "nazivMesta": "LUKIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00397 ",
+          "nazivMesta": "MILIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00398 ",
+          "nazivMesta": "MIŠIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00399 ",
+          "nazivMesta": "RAŠEVO",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00400 ",
+          "nazivMesta": "VITIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00401 ",
+          "nazivMesta": "VRTOČE",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00402 ",
+          "nazivMesta": "PODGORA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00403 ",
+          "nazivMesta": "ZAGRAĐE",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00404 ",
+          "nazivMesta": "DERVENTA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00405 ",
+          "nazivMesta": "NOVA KASABA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00406 ",
+          "nazivMesta": "LUKAVICA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00407 ",
+          "nazivMesta": "MILOŠEVO",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00408 ",
+          "nazivMesta": "VLASENICA",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00409 ",
+          "nazivMesta": "ĐURĐEVIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00410 ",
+          "nazivMesta": "RISTIJEVIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "00411 ",
+          "nazivMesta": "KRAJČINOVIĆI",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "10168 ",
+          "nazivMesta": "RUPOVO BRDO",
+          "sifOpstine": "Milići-00315"
+        },
+        {
+          "sifMesta": "10417 ",
+          "nazivMesta": "GAREVAC",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00412 ",
+          "nazivMesta": "DOBOJ",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00413 ",
+          "nazivMesta": "SKUGRĆ",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00414 ",
+          "nazivMesta": "MODRIČA",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00415 ",
+          "nazivMesta": "SKUGRIĆ",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00416 ",
+          "nazivMesta": "VRANJAK",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00417 ",
+          "nazivMesta": "KOPRIVNA",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00418 ",
+          "nazivMesta": "MILOŠEVAC",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00419 ",
+          "nazivMesta": "BRIJESTOVO",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00420 ",
+          "nazivMesta": "DUGO POLJE",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "00422 ",
+          "nazivMesta": "KOPRIVSKA TREBAVA",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "12565 ",
+          "nazivMesta": "TAREVCI",
+          "sifOpstine": "Modriča-00316"
+        },
+        {
+          "sifMesta": "13285 ",
+          "nazivMesta": "CRGOVO-ĆEPALA",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11396 ",
+          "nazivMesta": "KIFINO SELO",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11428 ",
+          "nazivMesta": "ZOVI DO",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11431 ",
+          "nazivMesta": "ODŽAK",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "00423 ",
+          "nazivMesta": "NEVESINJE",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11002 ",
+          "nazivMesta": "PODVELEŽ",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11003 ",
+          "nazivMesta": "POTOCI",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11044 ",
+          "nazivMesta": "BUNA",
+          "sifOpstine": "Nevesinje-00317"
+        },
+        {
+          "sifMesta": "11043 ",
+          "nazivMesta": "BOSANSKA KRUPA",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00424 ",
+          "nazivMesta": "BLATNA",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00425 ",
+          "nazivMesta": "RUDICE",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00426 ",
+          "nazivMesta": "SVODNA",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00427 ",
+          "nazivMesta": "RAVNICE",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00428 ",
+          "nazivMesta": "DOBRLJIN",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00429 ",
+          "nazivMesta": "PETKOVAC",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00430 ",
+          "nazivMesta": "NOVI GRAD",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00431 ",
+          "nazivMesta": "DONJE VODIČEVO",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "11401 ",
+          "nazivMesta": "DONJI AGIĆI",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "11468 ",
+          "nazivMesta": "DONJI DUBOVIK",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "13369 ",
+          "nazivMesta": "ŠUJICA",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "12805 ",
+          "nazivMesta": "CRNI VRH",
+          "sifOpstine": "Novi Grad-00318"
+        },
+        {
+          "sifMesta": "00432 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Lukavica-00319"
+        },
+        {
+          "sifMesta": "00433 ",
+          "nazivMesta": "LUKAVICA",
+          "sifOpstine": "Lukavica-00319"
+        },
+        {
+          "sifMesta": "00434 ",
+          "nazivMesta": "MILJEVIĆI",
+          "sifOpstine": "Lukavica-00319"
+        },
+        {
+          "sifMesta": "00435 ",
+          "nazivMesta": "VOJKOVIĆI",
+          "sifOpstine": "Lukavica-00319"
+        },
+        {
+          "sifMesta": "00436 ",
+          "nazivMesta": "ŠEHER",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00437 ",
+          "nazivMesta": "KULINA",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00438 ",
+          "nazivMesta": "OSMACI",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00439 ",
+          "nazivMesta": "CAPARDE",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00440 ",
+          "nazivMesta": "BOROGOVO",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00441 ",
+          "nazivMesta": "MATKOVAC",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00442 ",
+          "nazivMesta": "SAJTOVIĆI",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00443 ",
+          "nazivMesta": "VILIČEVIĆI",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00444 ",
+          "nazivMesta": "RAKINO BRDO",
+          "sifOpstine": "Osmaci-00320"
+        },
+        {
+          "sifMesta": "00445 ",
+          "nazivMesta": "PALE",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00446 ",
+          "nazivMesta": "MOKRO",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00447 ",
+          "nazivMesta": "PODGRAB",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00448 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00449 ",
+          "nazivMesta": "JAHORINA",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00450 ",
+          "nazivMesta": "PODVITEZ",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "00451 ",
+          "nazivMesta": "VRHPRAČA",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "11852 ",
+          "nazivMesta": "REPCA",
+          "sifOpstine": "Pale-00321"
+        },
+        {
+          "sifMesta": "11584 ",
+          "nazivMesta": "GORNJA TRAMOŠNICA",
+          "sifOpstine": "Pelagićevo-00322"
+        },
+        {
+          "sifMesta": "11585 ",
+          "nazivMesta": "TRAMOŠNICA",
+          "sifOpstine": "Pelagićevo-00322"
+        },
+        {
+          "sifMesta": "11586 ",
+          "nazivMesta": "DONJA TRAMOŠNICA",
+          "sifOpstine": "Pelagićevo-00322"
+        },
+        {
+          "sifMesta": "00452 ",
+          "nazivMesta": "PELAGIĆEVO",
+          "sifOpstine": "Pelagićevo-00322"
+        },
+        {
+          "sifMesta": "00453 ",
+          "nazivMesta": "DONJI ŽABAR",
+          "sifOpstine": "Pelagićevo-00322"
+        },
+        {
+          "sifMesta": "00454 ",
+          "nazivMesta": "KAKMUŽ",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00455 ",
+          "nazivMesta": "PETROVO",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00456 ",
+          "nazivMesta": "PETROVIĆ",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00457 ",
+          "nazivMesta": "SOČKOVAC",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00458 ",
+          "nazivMesta": "KARANOVAC",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00459 ",
+          "nazivMesta": "PORJEČINA",
+          "sifOpstine": "Petrovo-00323"
+        },
+        {
+          "sifMesta": "00460 ",
+          "nazivMesta": "BUSNOVI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00461 ",
+          "nazivMesta": "GAREVCI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00462 ",
+          "nazivMesta": "GRADINA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00463 ",
+          "nazivMesta": "JELIĆKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00464 ",
+          "nazivMesta": "JUGOVCI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00465 ",
+          "nazivMesta": "LJUBIJA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00466 ",
+          "nazivMesta": "MARIĆKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00467 ",
+          "nazivMesta": "OMARSKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00468 ",
+          "nazivMesta": "RASAVCI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00469 ",
+          "nazivMesta": "ČEJRECI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00470 ",
+          "nazivMesta": "KOPRIVNA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00471 ",
+          "nazivMesta": "KOZARUŠA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00472 ",
+          "nazivMesta": "LAMOVITA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00473 ",
+          "nazivMesta": "PRIJEDOR",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00474 ",
+          "nazivMesta": "RAKELIĆI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00475 ",
+          "nazivMesta": "SANIČANI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00476 ",
+          "nazivMesta": "TOMAŠICA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00477 ",
+          "nazivMesta": "BREZIČANI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00478 ",
+          "nazivMesta": "GOMJENICA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00479 ",
+          "nazivMesta": "TRNOPOLJE",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00480 ",
+          "nazivMesta": "DRAGOTINJA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00481 ",
+          "nazivMesta": "OŠTRA LUKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00482 ",
+          "nazivMesta": "PETROV GAJ",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00483 ",
+          "nazivMesta": "ČIRKIN POLJE",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00484 ",
+          "nazivMesta": "GORNJI JELOVAC",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "00485 ",
+          "nazivMesta": "VELIKO PALANČIŠTE",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "11022 ",
+          "nazivMesta": "BIŠĆANI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "10982 ",
+          "nazivMesta": "LUŠCI PALANKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "10806 ",
+          "nazivMesta": "KOZARAC",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "11064 ",
+          "nazivMesta": "TOMINA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "11403 ",
+          "nazivMesta": "KRUPA NA UNI",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "11173 ",
+          "nazivMesta": "DONJA LAMOVITA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "12200 ",
+          "nazivMesta": "RUDICE",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "13485 ",
+          "nazivMesta": "MELINA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "13645 ",
+          "nazivMesta": "MALA NOVSKA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "13228 ",
+          "nazivMesta": "KOZARA",
+          "sifOpstine": "Prijedor-00324"
+        },
+        {
+          "sifMesta": "13685 ",
+          "nazivMesta": "MARAVIĆI",
+          "sifOpstine": "Rogatica-00325"
+        },
+        {
+          "sifMesta": "10355 ",
+          "nazivMesta": "STJENICE",
+          "sifOpstine": "Rogatica-00325"
+        },
+        {
+          "sifMesta": "00486 ",
+          "nazivMesta": "BORIKE",
+          "sifOpstine": "Rogatica-00325"
+        },
+        {
+          "sifMesta": "00487 ",
+          "nazivMesta": "SRBINJE",
+          "sifOpstine": "Rogatica-00325"
+        },
+        {
+          "sifMesta": "00488 ",
+          "nazivMesta": "ROGATICA",
+          "sifOpstine": "Rogatica-00325"
+        },
+        {
+          "sifMesta": "00489 ",
+          "nazivMesta": "RUDO",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "00490 ",
+          "nazivMesta": "UVAC",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "00491 ",
+          "nazivMesta": "MIOČE",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "00492 ",
+          "nazivMesta": "ČAJNIČE",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "10582 ",
+          "nazivMesta": "BIJELO BRDO",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "13656 ",
+          "nazivMesta": "BIJELO RUDO",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "12907 ",
+          "nazivMesta": "SIROVA GORA",
+          "sifOpstine": "Rudo-00326"
+        },
+        {
+          "sifMesta": "00493 ",
+          "nazivMesta": "GAJ",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00494 ",
+          "nazivMesta": "BOŽIĆI",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00495 ",
+          "nazivMesta": "LIJEŠĆE",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00496 ",
+          "nazivMesta": "SKELANI",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00497 ",
+          "nazivMesta": "TOPLICA",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00498 ",
+          "nazivMesta": "BUJAKOVIĆI",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00499 ",
+          "nazivMesta": "KALIMANIĆI",
+          "sifOpstine": "Skelani-00327"
+        },
+        {
+          "sifMesta": "00500 ",
+          "nazivMesta": "PALE",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00501 ",
+          "nazivMesta": "HREŠA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00502 ",
+          "nazivMesta": "MOKRO",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00503 ",
+          "nazivMesta": "BULOZI",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00504 ",
+          "nazivMesta": "TRNOVO",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00505 ",
+          "nazivMesta": "KNEŽINA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00506 ",
+          "nazivMesta": "PODGRAB",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00507 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00508 ",
+          "nazivMesta": "DOBRINJA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00509 ",
+          "nazivMesta": "JAHORINA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00510 ",
+          "nazivMesta": "LUKAVICA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00511 ",
+          "nazivMesta": "SOKOLACB",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00512 ",
+          "nazivMesta": "VRHPRAČA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00513 ",
+          "nazivMesta": "KALINOVIK",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00514 ",
+          "nazivMesta": "MILJEVIĆI",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00515 ",
+          "nazivMesta": "VOJKOVIĆI",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00516 ",
+          "nazivMesta": "HAN PIJESAK",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00517 ",
+          "nazivMesta": "DONJE MLADICE",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "00518 ",
+          "nazivMesta": "RAVNA ROMANIJA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "10232 ",
+          "nazivMesta": "KALJINA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "10233 ",
+          "nazivMesta": "SOKOLOVIĆI",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "12686 ",
+          "nazivMesta": "ROMANIJA",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "12149 ",
+          "nazivMesta": "ĐEDOVCI",
+          "sifOpstine": "Sokolac-00328"
+        },
+        {
+          "sifMesta": "13526 ",
+          "nazivMesta": "BRIONI",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "13347 ",
+          "nazivMesta": "RJEČICA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "13189 ",
+          "nazivMesta": "BISTRICA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "13133 ",
+          "nazivMesta": "BAKIĆ",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "11473 ",
+          "nazivMesta": "USTIKOLINA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "10562 ",
+          "nazivMesta": "ZAVAJT",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "10724 ",
+          "nazivMesta": "ČELEBIĆI",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "10010 ",
+          "nazivMesta": "BROD",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "10011 ",
+          "nazivMesta": "JOŠANICA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "00519 ",
+          "nazivMesta": "FOČA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "00520 ",
+          "nazivMesta": "STRBINJE",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "00521 ",
+          "nazivMesta": "MILJEVINA",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "00522 ",
+          "nazivMesta": "TJENTIŠTE",
+          "sifOpstine": "Foča-00329"
+        },
+        {
+          "sifMesta": "00523 ",
+          "nazivMesta": "PALE",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "00524 ",
+          "nazivMesta": "ORAHOVICA",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "00525 ",
+          "nazivMesta": "SREBRENICA",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "00526 ",
+          "nazivMesta": "DONJI POTOČARI",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "00527 ",
+          "nazivMesta": "GORNJI POTOČARI",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "11444 ",
+          "nazivMesta": "POTOČARI",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "11244 ",
+          "nazivMesta": "SKELANI",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "11565 ",
+          "nazivMesta": "SASE",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "12997 ",
+          "nazivMesta": "REPETITOR VISOČNIK",
+          "sifOpstine": "Srebrenica-00330"
+        },
+        {
+          "sifMesta": "00528 ",
+          "nazivMesta": "BROD",
+          "sifOpstine": "Srpski Brod-00331"
+        },
+        {
+          "sifMesta": "00529 ",
+          "nazivMesta": "DOBOJ",
+          "sifOpstine": "Srpski Brod-00331"
+        },
+        {
+          "sifMesta": "00530 ",
+          "nazivMesta": "SRPSKI BROD",
+          "sifOpstine": "Srpski Brod-00331"
+        },
+        {
+          "sifMesta": "10846 ",
+          "nazivMesta": "VINSKA",
+          "sifOpstine": "Srpski Brod-00331"
+        },
+        {
+          "sifMesta": "10911 ",
+          "nazivMesta": "ZBORIŠTE",
+          "sifOpstine": "Srpski Brod-00331"
+        },
+        {
+          "sifMesta": "00531 ",
+          "nazivMesta": "KOPRIVNA",
+          "sifOpstine": "Srpski Sanski Most-00332"
+        },
+        {
+          "sifMesta": "00532 ",
+          "nazivMesta": "OŠTRA LUKA",
+          "sifOpstine": "Srpski Sanski Most-00332"
+        },
+        {
+          "sifMesta": "00533 ",
+          "nazivMesta": "NOVO GORAŽDE",
+          "sifOpstine": "Novo Goražde-00333"
+        },
+        {
+          "sifMesta": "12786 ",
+          "nazivMesta": "USTIPRAČA",
+          "sifOpstine": "Novo Goražde-00333"
+        },
+        {
+          "sifMesta": "00534 ",
+          "nazivMesta": "BRČKO",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00535 ",
+          "nazivMesta": "ŠAMAC",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00536 ",
+          "nazivMesta": "CRKVINA",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00537 ",
+          "nazivMesta": "LONČARI",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00538 ",
+          "nazivMesta": "PELAGIĆEVO",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00539 ",
+          "nazivMesta": "DONJI ŽABAR",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "10166 ",
+          "nazivMesta": "KREPŠIĆ",
+          "sifOpstine": "Srpsko Orašje-00334"
+        },
+        {
+          "sifMesta": "00540 ",
+          "nazivMesta": "HREŠA",
+          "sifOpstine": "Istočni Stari Grad-00335"
+        },
+        {
+          "sifMesta": "00541 ",
+          "nazivMesta": "BULOZI",
+          "sifOpstine": "Istočni Stari Grad-00335"
+        },
+        {
+          "sifMesta": "13226 ",
+          "nazivMesta": "TREBEVIĆ",
+          "sifOpstine": "Istočni Stari Grad-00335"
+        },
+        {
+          "sifMesta": "13065 ",
+          "nazivMesta": "PRODANOVIĆI",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "13090 ",
+          "nazivMesta": "GORNJI RANKOVIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "12868 ",
+          "nazivMesta": "OČAUŠ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00542 ",
+          "nazivMesta": "DOBOJ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00543 ",
+          "nazivMesta": "LIPLJE",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00544 ",
+          "nazivMesta": "TESLIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00545 ",
+          "nazivMesta": "ČEČAVA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00546 ",
+          "nazivMesta": "BULETIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00547 ",
+          "nazivMesta": "LUKAVAC",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00548 ",
+          "nazivMesta": "STENJAK",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00549 ",
+          "nazivMesta": "BLATNICA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00550 ",
+          "nazivMesta": "DERVENTA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00551 ",
+          "nazivMesta": "PRIBINIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00552 ",
+          "nazivMesta": "DUGO POLJE",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00553 ",
+          "nazivMesta": "ŠNJEGOTINA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00554 ",
+          "nazivMesta": "DONJA ČEČAVA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00555 ",
+          "nazivMesta": "DONJE LIPLJE",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00556 ",
+          "nazivMesta": "BANJA VRUĆICA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00557 ",
+          "nazivMesta": "DONJI BULETIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00558 ",
+          "nazivMesta": "GORNJA RADNJA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00559 ",
+          "nazivMesta": "GORNJI TESLIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "00560 ",
+          "nazivMesta": "GORNJA ŠNJEGOTINA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "10561 ",
+          "nazivMesta": "UGODNOVIĆ",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "10418 ",
+          "nazivMesta": "ŠNJEGOTINA GORNJA",
+          "sifOpstine": "Teslić-00336"
+        },
+        {
+          "sifMesta": "10563 ",
+          "nazivMesta": "GRAB",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10564 ",
+          "nazivMesta": "MOSKO",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10565 ",
+          "nazivMesta": "LJUBOMIR",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10438 ",
+          "nazivMesta": "PETROVO POLJE",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10622 ",
+          "nazivMesta": "VINOGRADI",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10868 ",
+          "nazivMesta": "IVANICA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "10981 ",
+          "nazivMesta": "ČAPLJINA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "00561 ",
+          "nazivMesta": "DŽIVAR",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "00562 ",
+          "nazivMesta": "GORICA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "00563 ",
+          "nazivMesta": "LASTVA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "00564 ",
+          "nazivMesta": "TREBINJE",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "13135 ",
+          "nazivMesta": "LASTVA SILOS",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "11568 ",
+          "nazivMesta": "BOBANI",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "11569 ",
+          "nazivMesta": "GOJŠINA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "11579 ",
+          "nazivMesta": "POVRŠ",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "11617 ",
+          "nazivMesta": "SLIVNICA",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "11873 ",
+          "nazivMesta": "DIKLIĆI",
+          "sifOpstine": "Trebinje-00337"
+        },
+        {
+          "sifMesta": "13091 ",
+          "nazivMesta": "JAHORINA",
+          "sifOpstine": "Trnovo-00338"
+        },
+        {
+          "sifMesta": "12727 ",
+          "nazivMesta": "GRADAC",
+          "sifOpstine": "Trnovo-00338"
+        },
+        {
+          "sifMesta": "00565 ",
+          "nazivMesta": "TRNOVO",
+          "sifOpstine": "Trnovo-00338"
+        },
+        {
+          "sifMesta": "00566 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Trnovo-00338"
+        },
+        {
+          "sifMesta": "00567 ",
+          "nazivMesta": "KORAJ",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "00568 ",
+          "nazivMesta": "ZABRĐE",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "00569 ",
+          "nazivMesta": "UGLJEVIK",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "11229 ",
+          "nazivMesta": "BANJICA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12726 ",
+          "nazivMesta": "TRNOVA DONJA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12687 ",
+          "nazivMesta": "RAŽLJEVO",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12955 ",
+          "nazivMesta": "BOGUTOVO SELO",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12956 ",
+          "nazivMesta": "SREDNJA TRNOVA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12957 ",
+          "nazivMesta": "MALEŠEVCI",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12958 ",
+          "nazivMesta": "MEZGRAJA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12972 ",
+          "nazivMesta": "DONJA KRĆINA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12973 ",
+          "nazivMesta": "GORNJA KRĆINA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12975 ",
+          "nazivMesta": "GORNJA TRNOVA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12976 ",
+          "nazivMesta": "KORENITA",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "12977 ",
+          "nazivMesta": "TUTNJEVAC",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "11309 ",
+          "nazivMesta": "RAVNO POLJE",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "11310 ",
+          "nazivMesta": "UGLJEVIČKA OBRIJEŽ",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "11311 ",
+          "nazivMesta": "UGLJEVIK SELO",
+          "sifOpstine": "Ugljevik-00339"
+        },
+        {
+          "sifMesta": "13654 ",
+          "nazivMesta": "BIJELO TRBOSILJE",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "13655 ",
+          "nazivMesta": "KOČARIM-ŠLJEME",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "12505 ",
+          "nazivMesta": "ANDRIĆGRAD",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "10154 ",
+          "nazivMesta": "VISEGRAD",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "00571 ",
+          "nazivMesta": "DOBRUN",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "00572 ",
+          "nazivMesta": "PRELOVO",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "00573 ",
+          "nazivMesta": "VARDIŠTE",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "00574 ",
+          "nazivMesta": "VIŠEGRAD",
+          "sifOpstine": "Višegrad-00340"
+        },
+        {
+          "sifMesta": "00575 ",
+          "nazivMesta": "DRUM",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00576 ",
+          "nazivMesta": "RAČA",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00577 ",
+          "nazivMesta": "MIŠARI",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00578 ",
+          "nazivMesta": "SIMIĆI",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00579 ",
+          "nazivMesta": "TUGOVO",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00580 ",
+          "nazivMesta": "GRABOVICA",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00581 ",
+          "nazivMesta": "KLJEŠTANI",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00582 ",
+          "nazivMesta": "VLASENICA",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00583 ",
+          "nazivMesta": "DRAGAŠEVAC",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00584 ",
+          "nazivMesta": "KOZJA RAVAN",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "10356 ",
+          "nazivMesta": "TIŠČA",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "11980 ",
+          "nazivMesta": "DURIĆI",
+          "sifOpstine": "Vlasenica-00341"
+        },
+        {
+          "sifMesta": "00585 ",
+          "nazivMesta": "GNIONICA",
+          "sifOpstine": "Vukosavlje-00342"
+        },
+        {
+          "sifMesta": "00586 ",
+          "nazivMesta": "VUKOSAVLJE",
+          "sifOpstine": "Vukosavlje-00342"
+        },
+        {
+          "sifMesta": "00421 ",
+          "nazivMesta": "VUKOSAVLJE",
+          "sifOpstine": "Vukosavlje-00342"
+        },
+        {
+          "sifMesta": "00587 ",
+          "nazivMesta": "KLISA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00588 ",
+          "nazivMesta": "TRŠIĆ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00589 ",
+          "nazivMesta": "VRELA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00590 ",
+          "nazivMesta": "JARDAN",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00591 ",
+          "nazivMesta": "JUSIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00592 ",
+          "nazivMesta": "KOZLUK",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00593 ",
+          "nazivMesta": "PAĐINE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00594 ",
+          "nazivMesta": "SKOČIĆ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00595 ",
+          "nazivMesta": "ŠETIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00596 ",
+          "nazivMesta": "ĐULIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00597 ",
+          "nazivMesta": "GLUMINA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00598 ",
+          "nazivMesta": "GUŠTERI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00599 ",
+          "nazivMesta": "ROĆEVIĆ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00600 ",
+          "nazivMesta": "SNAGOVO",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00601 ",
+          "nazivMesta": "TABANCI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00602 ",
+          "nazivMesta": "UGLJARI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00603 ",
+          "nazivMesta": "ZELINJE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00604 ",
+          "nazivMesta": "ZVORNIK",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00605 ",
+          "nazivMesta": "ČELOPEK",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00606 ",
+          "nazivMesta": "ĐEVANJE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00607 ",
+          "nazivMesta": "BULOŽANI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00608 ",
+          "nazivMesta": "DRINJAČA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00609 ",
+          "nazivMesta": "JASENICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00610 ",
+          "nazivMesta": "KISELJAK",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00611 ",
+          "nazivMesta": "MALEŠIĆ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00612 ",
+          "nazivMesta": "PETKOVCI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00613 ",
+          "nazivMesta": "POTOČANI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00614 ",
+          "nazivMesta": "SOPOTNIK",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00615 ",
+          "nazivMesta": "TRNOVICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00616 ",
+          "nazivMesta": "BOŠKOVIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00617 ",
+          "nazivMesta": "KITOVNICE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00618 ",
+          "nazivMesta": "KRIŽEVIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00619 ",
+          "nazivMesta": "NOVO SELO",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00620 ",
+          "nazivMesta": "KUČIĆ KULA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00621 ",
+          "nazivMesta": "KOSTIJEREVO",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00622 ",
+          "nazivMesta": "ŠEPAK DONJI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00623 ",
+          "nazivMesta": "DONJA PILICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00624 ",
+          "nazivMesta": "DONJI LOKANJ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00625 ",
+          "nazivMesta": "SVETI STEFAN",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00626 ",
+          "nazivMesta": "ŠEPAK GORNJI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00627 ",
+          "nazivMesta": "GORNJA PILICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00628 ",
+          "nazivMesta": "GORNJI LOKANJ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00629 ",
+          "nazivMesta": "GRBAVCI DONJI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00630 ",
+          "nazivMesta": "GRBAVCI GORNJI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "00631 ",
+          "nazivMesta": "KAMENICA DONJA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "10170 ",
+          "nazivMesta": "BRNICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11230 ",
+          "nazivMesta": "CER",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11231 ",
+          "nazivMesta": "GLAVIČICE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11131 ",
+          "nazivMesta": "KARAKAJ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11132 ",
+          "nazivMesta": "NASELJE EKONOMIJA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11133 ",
+          "nazivMesta": "BRANJEVO",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11134 ",
+          "nazivMesta": "ULICE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11135 ",
+          "nazivMesta": "ORAHOVAC",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11136 ",
+          "nazivMesta": "DIVIČ",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "12283 ",
+          "nazivMesta": "GRBAVCI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "13605 ",
+          "nazivMesta": "KULA GRAD SULTANOVIĆI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "13625 ",
+          "nazivMesta": "ZMAJEVAC",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11237 ",
+          "nazivMesta": "ŠEPAK SREDNJI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11233 ",
+          "nazivMesta": "GORNJI TABANCI",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11234 ",
+          "nazivMesta": "LUPE",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11410 ",
+          "nazivMesta": "PILICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11429 ",
+          "nazivMesta": "SAPNA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11729 ",
+          "nazivMesta": "DONJA KAMENICA",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11726 ",
+          "nazivMesta": "KULA GRAD",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "11590 ",
+          "nazivMesta": "DUGI DIO",
+          "sifOpstine": "Zvornik-00343"
+        },
+        {
+          "sifMesta": "13548 ",
+          "nazivMesta": "BRVNIK",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "13565 ",
+          "nazivMesta": "TIŠINA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "13008 ",
+          "nazivMesta": "BATKUŠA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "13089 ",
+          "nazivMesta": "SREDNJA SLATINA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "12946 ",
+          "nazivMesta": "VIDACI",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "12993 ",
+          "nazivMesta": "KRUŠKOVO POLJE",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "12994 ",
+          "nazivMesta": "NOVO SELO",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "12995 ",
+          "nazivMesta": "PISARI",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "10156 ",
+          "nazivMesta": "PELAGIĆEVO",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00632 ",
+          "nazivMesta": "ŠAMAC",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00633 ",
+          "nazivMesta": "CRKVINA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00634 ",
+          "nazivMesta": "KORNICA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00635 ",
+          "nazivMesta": "LONČARI",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00636 ",
+          "nazivMesta": "OBUDOVAC",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00638 ",
+          "nazivMesta": "DONJI ŽABAR",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00639 ",
+          "nazivMesta": "DONJA SLATINA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "10167 ",
+          "nazivMesta": "GORNJA SLATINA",
+          "sifOpstine": "Šamac-00344"
+        },
+        {
+          "sifMesta": "00640 ",
+          "nazivMesta": "VRELO",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00641 ",
+          "nazivMesta": "ČANIĆI",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00642 ",
+          "nazivMesta": "PAPRAĆA",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00643 ",
+          "nazivMesta": "PLAZAČE",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00644 ",
+          "nazivMesta": "AŠĆERIĆI",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00645 ",
+          "nazivMesta": "KALABAČE",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00646 ",
+          "nazivMesta": "ŠEKOVIĆI",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00647 ",
+          "nazivMesta": "MARKOVIĆI",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "00648 ",
+          "nazivMesta": "VELIKA NJIVA",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "10169 ",
+          "nazivMesta": "SUČANI",
+          "sifOpstine": "Šekovići-00345"
+        },
+        {
+          "sifMesta": "10956 ",
+          "nazivMesta": "MILJENO",
+          "sifOpstine": "Čajniče-00346"
+        },
+        {
+          "sifMesta": "10954 ",
+          "nazivMesta": "ZABORAK",
+          "sifOpstine": "Čajniče-00346"
+        },
+        {
+          "sifMesta": "00649 ",
+          "nazivMesta": "ČAJNIČE",
+          "sifOpstine": "Čajniče-00346"
+        },
+        {
+          "sifMesta": "10092 ",
+          "nazivMesta": "BALTE",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00256 ",
+          "nazivMesta": "BRANEŠCI",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00231 ",
+          "nazivMesta": "JOŠAVKA GORNJA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00177 ",
+          "nazivMesta": "ŠNJEGOTINA VELIKA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00180 ",
+          "nazivMesta": "ŠTRBE",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "11186 ",
+          "nazivMesta": "ŠNJEGOTINA DONJA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "11192 ",
+          "nazivMesta": "JOŠAVKA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00148 ",
+          "nazivMesta": "POPOVAC",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00138 ",
+          "nazivMesta": "OPSJEČKO",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "00104 ",
+          "nazivMesta": "JOŠAVKA DONJA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "12155 ",
+          "nazivMesta": "DONJI LAĐEVCI",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "13146 ",
+          "nazivMesta": "ŠNJEGOTINA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "12965 ",
+          "nazivMesta": "UKRINA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "12971 ",
+          "nazivMesta": "VIJAČANI",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "59    ",
+          "nazivMesta": "ČELINAC",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "60    ",
+          "nazivMesta": "ČELINAC GORNJI",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "54    ",
+          "nazivMesta": "BREZIČANI",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "80    ",
+          "nazivMesta": "STARA DUBRAVA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "11268 ",
+          "nazivMesta": "SREDNJA ŠNJEGOTINA",
+          "sifOpstine": "Čelinac-10001"
+        },
+        {
+          "sifMesta": "81    ",
+          "nazivMesta": "DUBRAVE",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "71    ",
+          "nazivMesta": "DONJI PODGRADCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "57    ",
+          "nazivMesta": "CEROVLJANI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "13225 ",
+          "nazivMesta": "KARAJZOVCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "12967 ",
+          "nazivMesta": "BRESTOVČINA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "13128 ",
+          "nazivMesta": "GORNJA DOLINA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "12951 ",
+          "nazivMesta": "TREBOVLJANI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00108 ",
+          "nazivMesta": "KOČIĆEVO",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00102 ",
+          "nazivMesta": "JAZOVAC",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00111 ",
+          "nazivMesta": "KOZINCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00127 ",
+          "nazivMesta": "MAŠIĆI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00119 ",
+          "nazivMesta": "LAMINCI SREĐANI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00120 ",
+          "nazivMesta": "LISKOVAC",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00139 ",
+          "nazivMesta": "ORAHOVA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00135 ",
+          "nazivMesta": "NOVA TOPOLA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00164 ",
+          "nazivMesta": "ROVINE",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00165 ",
+          "nazivMesta": "SEFEROVCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "10357 ",
+          "nazivMesta": "LAMINCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00251 ",
+          "nazivMesta": "VAKUF",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00184 ",
+          "nazivMesta": "TROŠELJI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00185 ",
+          "nazivMesta": "TURJAK",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00189 ",
+          "nazivMesta": "VILUSI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00193 ",
+          "nazivMesta": "VRBAŠKA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00205 ",
+          "nazivMesta": "BEREK",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00212 ",
+          "nazivMesta": "DONJA JURKOVICA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00219 ",
+          "nazivMesta": "ELEZAGIĆI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00239 ",
+          "nazivMesta": "PETROVO SELO",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00241 ",
+          "nazivMesta": "ROGOLJI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00242 ",
+          "nazivMesta": "ROMANOVCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00234 ",
+          "nazivMesta": "KRAJIŠNIK",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00235 ",
+          "nazivMesta": "LAMINCI BREZICI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "10004 ",
+          "nazivMesta": "GREDA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "92    ",
+          "nazivMesta": "GORNJI PODGRADCI",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "96    ",
+          "nazivMesta": "GRADIŠKA",
+          "sifOpstine": "Gradiška-10008"
+        },
+        {
+          "sifMesta": "00103 ",
+          "nazivMesta": "JEZERO",
+          "sifOpstine": "Jezero-10009"
+        },
+        {
+          "sifMesta": "00106 ",
+          "nazivMesta": "KNEŽEVO",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "00156 ",
+          "nazivMesta": "RAĐIĆI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "00196 ",
+          "nazivMesta": "ŽIVINICE",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "00178 ",
+          "nazivMesta": "ŠOLAJI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "10458 ",
+          "nazivMesta": "DONJI KORIĆANI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "10786 ",
+          "nazivMesta": "IMLJANI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "11065 ",
+          "nazivMesta": "JAVORANI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "51    ",
+          "nazivMesta": "BOKANI",
+          "sifOpstine": "Kneževo-10010"
+        },
+        {
+          "sifMesta": "84    ",
+          "nazivMesta": "GARIĆI",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "12026 ",
+          "nazivMesta": "OBODNIK",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00194 ",
+          "nazivMesta": "ZABRĐE",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00176 ",
+          "nazivMesta": "ŠIPRAGE",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00192 ",
+          "nazivMesta": "VRBANJCI",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00126 ",
+          "nazivMesta": "MASLOVARE",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00110 ",
+          "nazivMesta": "KOTOR VAROŠ",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "95    ",
+          "nazivMesta": "GRABOVICA",
+          "sifOpstine": "Kotor Varoš-10011"
+        },
+        {
+          "sifMesta": "00113 ",
+          "nazivMesta": "KRIŠKOVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00101 ",
+          "nazivMesta": "JABLAN",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00118 ",
+          "nazivMesta": "LAKTAŠI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00123 ",
+          "nazivMesta": "LJUBATOVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00124 ",
+          "nazivMesta": "MAHOVLJANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00125 ",
+          "nazivMesta": "MALO BLAŠKO",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00128 ",
+          "nazivMesta": "MILOSAVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00130 ",
+          "nazivMesta": "MRČEVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00157 ",
+          "nazivMesta": "RAJČEVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00168 ",
+          "nazivMesta": "SLATINA",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00181 ",
+          "nazivMesta": "ŠUŠNJARI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00182 ",
+          "nazivMesta": "TRN",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00187 ",
+          "nazivMesta": "VELIKO BLAŠKO",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00211 ",
+          "nazivMesta": "ĆETOJEVIĆI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00217 ",
+          "nazivMesta": "DOVIĆI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00207 ",
+          "nazivMesta": "BOŠKOVIĆI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00209 ",
+          "nazivMesta": "ČARDAČANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00249 ",
+          "nazivMesta": "ŠEŠKOVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00236 ",
+          "nazivMesta": "MAGLAJANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00230 ",
+          "nazivMesta": "JAKUPOVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "00232 ",
+          "nazivMesta": "KOBATOVCI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "11183 ",
+          "nazivMesta": "KADINJANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "10479 ",
+          "nazivMesta": "GORNJA SLATINA",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "86    ",
+          "nazivMesta": "GLAMOČANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "79    ",
+          "nazivMesta": "DRUGOVIĆI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "46    ",
+          "nazivMesta": "ALEKSANDROVAC",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "11423 ",
+          "nazivMesta": "HRVAĆANI",
+          "sifOpstine": "Laktaši-10012"
+        },
+        {
+          "sifMesta": "53    ",
+          "nazivMesta": "BRDO",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "13585 ",
+          "nazivMesta": "IVOVAC",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "10397 ",
+          "nazivMesta": "BARAĆI",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00233 ",
+          "nazivMesta": "KOTOR",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00237 ",
+          "nazivMesta": "MAJDAN",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00248 ",
+          "nazivMesta": "ŠEHOVCI",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00206 ",
+          "nazivMesta": "BJELAJCE",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00146 ",
+          "nazivMesta": "PODORUGLA",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00147 ",
+          "nazivMesta": "PODRAŠNICA",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "00131 ",
+          "nazivMesta": "MRKONJIĆ-GRAD",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "98    ",
+          "nazivMesta": "GUSTOVARA",
+          "sifOpstine": "Mrkonjić-Grad-10013"
+        },
+        {
+          "sifMesta": "99    ",
+          "nazivMesta": "HRVAĆANI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "94    ",
+          "nazivMesta": "GORNJI ŠTRPCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "91    ",
+          "nazivMesta": "PALAČKOVCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00133 ",
+          "nazivMesta": "MUJINCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00134 ",
+          "nazivMesta": "NASEOBINA LIŠNJA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00121 ",
+          "nazivMesta": "LIŠNJA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00116 ",
+          "nazivMesta": "KULAŠI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00112 ",
+          "nazivMesta": "KREMNA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00150 ",
+          "nazivMesta": "POTOČANI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00154 ",
+          "nazivMesta": "PRNJAVOR",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00155 ",
+          "nazivMesta": "PROSJEK",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00137 ",
+          "nazivMesta": "OKOLICA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00174 ",
+          "nazivMesta": "ŠIBOVSKA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00160 ",
+          "nazivMesta": "RATKOVAC",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00202 ",
+          "nazivMesta": "BABANOVCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00179 ",
+          "nazivMesta": "ŠTIVOR",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00250 ",
+          "nazivMesta": "ŠTRPCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00243 ",
+          "nazivMesta": "SKAKAVCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "00224 ",
+          "nazivMesta": "GORNJI SMRTIĆI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "10499 ",
+          "nazivMesta": "SMRTIĆI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "10500 ",
+          "nazivMesta": "BRESTOVO",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "10521 ",
+          "nazivMesta": "STARA DUBRAVA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13465 ",
+          "nazivMesta": "GORNJI GRABIK",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "83    ",
+          "nazivMesta": "GALJIPOVCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "78    ",
+          "nazivMesta": "DRENOVA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "66    ",
+          "nazivMesta": "DONJA MRAVICA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "75    ",
+          "nazivMesta": "DONJI VIJAČANI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13227 ",
+          "nazivMesta": "SVINJAR",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13306 ",
+          "nazivMesta": "ČORLE",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13307 ",
+          "nazivMesta": "GRIČ",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13325 ",
+          "nazivMesta": "PURAĆI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "13326 ",
+          "nazivMesta": "ŠEREG ILOVA",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "12999 ",
+          "nazivMesta": "KOKORI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "11823 ",
+          "nazivMesta": "LJUBATOVCI",
+          "sifOpstine": "Prnjavor-10014"
+        },
+        {
+          "sifMesta": "11732 ",
+          "nazivMesta": "ŠOLIĆI",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "11578 ",
+          "nazivMesta": "GORNJI RIBNIK",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "10644 ",
+          "nazivMesta": "VRBLJANI",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "00216 ",
+          "nazivMesta": "DONJI VRBLJANI",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "00159 ",
+          "nazivMesta": "RASTOKA",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "00167 ",
+          "nazivMesta": "SITNICA",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "89    ",
+          "nazivMesta": "PREVIJA",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "93    ",
+          "nazivMesta": "RIBNIK",
+          "sifOpstine": "Ribnik-10015"
+        },
+        {
+          "sifMesta": "00175 ",
+          "nazivMesta": "ŠIPOVO",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "00143 ",
+          "nazivMesta": "PLJEVA",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "00132 ",
+          "nazivMesta": "MUJDŽIĆI",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "00210 ",
+          "nazivMesta": "ČIFLUK",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "00191 ",
+          "nazivMesta": "VOLARI",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "10502 ",
+          "nazivMesta": "STROJICE",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "82    ",
+          "nazivMesta": "DULJCI",
+          "sifOpstine": "Šipovo-10016"
+        },
+        {
+          "sifMesta": "65    ",
+          "nazivMesta": "DONJA LEPENICA",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "73    ",
+          "nazivMesta": "DONJI SRĐEVIĆI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "55    ",
+          "nazivMesta": "BREZOVLJANI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "62    ",
+          "nazivMesta": "ĆUKALI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "11171 ",
+          "nazivMesta": "KAOCI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00208 ",
+          "nazivMesta": "BRUSNIK",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00203 ",
+          "nazivMesta": "BAJINCI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00204 ",
+          "nazivMesta": "BARDAČA",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00225 ",
+          "nazivMesta": "GORNJI SRĐEVIĆI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00229 ",
+          "nazivMesta": "ILIĆANI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00240 ",
+          "nazivMesta": "POVELIČ",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00115 ",
+          "nazivMesta": "KUKULJE",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00100 ",
+          "nazivMesta": "INAÐOL",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00107 ",
+          "nazivMesta": "KOBAŠ",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00136 ",
+          "nazivMesta": "NOŽIČKO",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00169 ",
+          "nazivMesta": "SRBAC",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00170 ",
+          "nazivMesta": "STARI MARTINAC",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00161 ",
+          "nazivMesta": "RAZBOJ LJEVČANSKI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00162 ",
+          "nazivMesta": "RAZBOJ ŽUPSKI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "00166 ",
+          "nazivMesta": "SITNEŠI",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "88    ",
+          "nazivMesta": "GORNJA LEPENICA",
+          "sifOpstine": "Srbac-10017"
+        },
+        {
+          "sifMesta": "10978 ",
+          "nazivMesta": "RAJLOVAC",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11106 ",
+          "nazivMesta": "ILIJAŠ",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10293 ",
+          "nazivMesta": "ILIDŽA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10172 ",
+          "nazivMesta": "SARAJEVO",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10174 ",
+          "nazivMesta": "NEDŽARIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10705 ",
+          "nazivMesta": "KREŠEVO",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10784 ",
+          "nazivMesta": "NOVO SARAJEVO",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "10666 ",
+          "nazivMesta": "BLAŽUJ",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "13046 ",
+          "nazivMesta": "GRAB",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "13245 ",
+          "nazivMesta": "GRDANJ",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "13167 ",
+          "nazivMesta": "IVAN SEDLO",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12025 ",
+          "nazivMesta": "HADŽIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12015 ",
+          "nazivMesta": "DOBROŠEVIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11987 ",
+          "nazivMesta": "VISOKO",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12202 ",
+          "nazivMesta": "BULJAKOV POTOK",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12127 ",
+          "nazivMesta": "KISELJAK",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12119 ",
+          "nazivMesta": "FOJNICA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "12366 ",
+          "nazivMesta": "SEMIZOVAC",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11629 ",
+          "nazivMesta": "BRIJEŠĆE",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11630 ",
+          "nazivMesta": "BREZA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11632 ",
+          "nazivMesta": "POFALIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11673 ",
+          "nazivMesta": "TARČIN",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11680 ",
+          "nazivMesta": "SOKOLOVIĆ KOLONIJA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11685 ",
+          "nazivMesta": "HRASNICA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11702 ",
+          "nazivMesta": "RAKOVICA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11705 ",
+          "nazivMesta": "KRIVAJEVIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11874 ",
+          "nazivMesta": "PAZARIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11881 ",
+          "nazivMesta": "DONJI VELEŠIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11391 ",
+          "nazivMesta": "GRBAVICA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11392 ",
+          "nazivMesta": "VELEŠIĆI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11447 ",
+          "nazivMesta": "VOGOŠĆA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11466 ",
+          "nazivMesta": "DOBRINJA",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11471 ",
+          "nazivMesta": "BUĆA POTOK",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11495 ",
+          "nazivMesta": "NOVI GRAD",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11496 ",
+          "nazivMesta": "DOGLODI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11497 ",
+          "nazivMesta": "ZABRĐE",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11498 ",
+          "nazivMesta": "PODLUGOVI",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11499 ",
+          "nazivMesta": "STARI GRAD",
+          "sifOpstine": "Sarajevo-10021"
+        },
+        {
+          "sifMesta": "11484 ",
+          "nazivMesta": "PODVELEŽJE",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11486 ",
+          "nazivMesta": "DONJA DREŽNICA",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11519 ",
+          "nazivMesta": "POTOCI",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11520 ",
+          "nazivMesta": "BUNA",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11404 ",
+          "nazivMesta": "GNOJNICE",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11644 ",
+          "nazivMesta": "ŠEHOVINA-MOSTAR",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11610 ",
+          "nazivMesta": "BIJELO POLJE",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11612 ",
+          "nazivMesta": "ŽITOMISLIĆ",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11542 ",
+          "nazivMesta": "CIM",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "11543 ",
+          "nazivMesta": "BLAGAJ",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "12178 ",
+          "nazivMesta": "VIR",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "13092 ",
+          "nazivMesta": "POMETENIK",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "10176 ",
+          "nazivMesta": "MOSTAR",
+          "sifOpstine": "Mostar-10023"
+        },
+        {
+          "sifMesta": "10192 ",
+          "nazivMesta": "TUZLA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "13132 ",
+          "nazivMesta": "ILINČICA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12305 ",
+          "nazivMesta": "POŽARNICA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12120 ",
+          "nazivMesta": "BANOVIĆI",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12094 ",
+          "nazivMesta": "ŠIĆKI BROD",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12123 ",
+          "nazivMesta": "ŽIVINICE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12124 ",
+          "nazivMesta": "CERIK",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11915 ",
+          "nazivMesta": "TUŠANJ",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12546 ",
+          "nazivMesta": "GRAČANICA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12746 ",
+          "nazivMesta": "KALESIJA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12765 ",
+          "nazivMesta": "RAPAČE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "12953 ",
+          "nazivMesta": "BABAJIĆI",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11539 ",
+          "nazivMesta": "MANDIĆI",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11576 ",
+          "nazivMesta": "TINJA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11665 ",
+          "nazivMesta": "KISELJAK",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11733 ",
+          "nazivMesta": "DONJE PETROVICE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11714 ",
+          "nazivMesta": "BREŠKE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11397 ",
+          "nazivMesta": "PODORAŠJE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11411 ",
+          "nazivMesta": "LJUBAČE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11427 ",
+          "nazivMesta": "DONJE DUBRAVE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11421 ",
+          "nazivMesta": "MRAMOR",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11417 ",
+          "nazivMesta": "SIMIN HAN",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11418 ",
+          "nazivMesta": "LIPNICA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11388 ",
+          "nazivMesta": "HUSINO",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11390 ",
+          "nazivMesta": "GORNJE DUBRAVE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11500 ",
+          "nazivMesta": "GORNJA TUZLA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11474 ",
+          "nazivMesta": "ŠPIONICA",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11475 ",
+          "nazivMesta": "ČELIĆ",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11461 ",
+          "nazivMesta": "BUKINJE",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11434 ",
+          "nazivMesta": "DUBOKI POTOK",
+          "sifOpstine": "Tuzla-10041"
+        },
+        {
+          "sifMesta": "11470 ",
+          "nazivMesta": "BLAŽUJ",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "11716 ",
+          "nazivMesta": "OSIJEK",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "11627 ",
+          "nazivMesta": "RAKOVCI",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "12825 ",
+          "nazivMesta": "GORNJI KOTORAC",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "11992 ",
+          "nazivMesta": "BUTMIR",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "13208 ",
+          "nazivMesta": "STUPSKO BRDO",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "13651 ",
+          "nazivMesta": "STUP",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "10212 ",
+          "nazivMesta": "ILIDŽA",
+          "sifOpstine": "Ilidža-10062"
+        },
+        {
+          "sifMesta": "10272 ",
+          "nazivMesta": "CAZIN",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "13553 ",
+          "nazivMesta": "KONJODER",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11989 ",
+          "nazivMesta": "PEĆIGRAD",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11990 ",
+          "nazivMesta": "BUŽIM",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11636 ",
+          "nazivMesta": "OSTROŽAC",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11589 ",
+          "nazivMesta": "ĆORALIĆI",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11730 ",
+          "nazivMesta": "STIJENA",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "11824 ",
+          "nazivMesta": "GORNJA KOPRIVNA",
+          "sifOpstine": "Cazin-10101"
+        },
+        {
+          "sifMesta": "10419 ",
+          "nazivMesta": "BUGOJNO",
+          "sifOpstine": "Bugojno-10121"
+        },
+        {
+          "sifMesta": "10541 ",
+          "nazivMesta": "LJUBUŠKI",
+          "sifOpstine": "Ljubuški-10161"
+        },
+        {
+          "sifMesta": "10566 ",
+          "nazivMesta": "TURIJA",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "10934 ",
+          "nazivMesta": "PURAČIĆ",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11851 ",
+          "nazivMesta": "HRVATI",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11760 ",
+          "nazivMesta": "DONJA DOBOŠNICA",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11676 ",
+          "nazivMesta": "DONJE POLJICE",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11356 ",
+          "nazivMesta": "LUKAVAC",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11982 ",
+          "nazivMesta": "GNOJNICA",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "11956 ",
+          "nazivMesta": "GORNJI BISTARAC",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "12176 ",
+          "nazivMesta": "CAPARDE",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "13145 ",
+          "nazivMesta": "BABICE",
+          "sifOpstine": "Lukavac-10181"
+        },
+        {
+          "sifMesta": "13668 ",
+          "nazivMesta": "BJELAŠNICA",
+          "sifOpstine": "Hadžići-10202"
+        },
+        {
+          "sifMesta": "11416 ",
+          "nazivMesta": "TARČIN",
+          "sifOpstine": "Hadžići-10202"
+        },
+        {
+          "sifMesta": "11437 ",
+          "nazivMesta": "PAZARIĆ",
+          "sifOpstine": "Hadžići-10202"
+        },
+        {
+          "sifMesta": "11879 ",
+          "nazivMesta": "PAZARIĆI",
+          "sifOpstine": "Hadžići-10202"
+        },
+        {
+          "sifMesta": "10604 ",
+          "nazivMesta": "HADŽIĆI",
+          "sifOpstine": "Hadžići-10202"
+        },
+        {
+          "sifMesta": "10606 ",
+          "nazivMesta": "ŠIROKI BRIJEG",
+          "sifOpstine": "Široki Brijeg-10204"
+        },
+        {
+          "sifMesta": "12387 ",
+          "nazivMesta": "KOČERIN",
+          "sifOpstine": "Široki Brijeg-10204"
+        },
+        {
+          "sifMesta": "12729 ",
+          "nazivMesta": "LUKAVAC",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "12067 ",
+          "nazivMesta": "LUKAVICA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11894 ",
+          "nazivMesta": "STJEPAN POLJE",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11867 ",
+          "nazivMesta": "MIRČINA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11778 ",
+          "nazivMesta": "MALEŠIĆI",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11755 ",
+          "nazivMesta": "NOVO NASELJE",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11709 ",
+          "nazivMesta": "KORIĆ HAN",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11682 ",
+          "nazivMesta": "MALA BRIJESNICA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11671 ",
+          "nazivMesta": "DONJA ORAHOVICA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "11454 ",
+          "nazivMesta": "ORAHOVICA DONJA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "10643 ",
+          "nazivMesta": "GRAČANICA",
+          "sifOpstine": "Gračanica-10225"
+        },
+        {
+          "sifMesta": "10645 ",
+          "nazivMesta": "DRINIĆ",
+          "sifOpstine": "Drinić-10226"
+        },
+        {
+          "sifMesta": "10646 ",
+          "nazivMesta": "KLJUČ",
+          "sifOpstine": "Ključ-10246"
+        },
+        {
+          "sifMesta": "11731 ",
+          "nazivMesta": "LJUBINE",
+          "sifOpstine": "Ključ-10246"
+        },
+        {
+          "sifMesta": "12368 ",
+          "nazivMesta": "PRHOVO",
+          "sifOpstine": "Ključ-10246"
+        },
+        {
+          "sifMesta": "13045 ",
+          "nazivMesta": "VELIKA GRADINA",
+          "sifOpstine": "Glamoč-10247"
+        },
+        {
+          "sifMesta": "10647 ",
+          "nazivMesta": "GLAMOČ",
+          "sifOpstine": "Glamoč-10247"
+        },
+        {
+          "sifMesta": "10648 ",
+          "nazivMesta": "BOSANSKO GRAHOVO",
+          "sifOpstine": "Bosansko Grahovo-10248"
+        },
+        {
+          "sifMesta": "10649 ",
+          "nazivMesta": "KUPRES",
+          "sifOpstine": "Kupres-10249"
+        },
+        {
+          "sifMesta": "10650 ",
+          "nazivMesta": "ISTOČNI DRVAR",
+          "sifOpstine": "Istočni Drvar-10250"
+        },
+        {
+          "sifMesta": "10665 ",
+          "nazivMesta": "SRPSKI DRVAR",
+          "sifOpstine": "Srpski Drvar-10266"
+        },
+        {
+          "sifMesta": "10671 ",
+          "nazivMesta": "NOVI TRAVNIK",
+          "sifOpstine": "Novi Travnik-10286"
+        },
+        {
+          "sifMesta": "10684 ",
+          "nazivMesta": "GRUDE",
+          "sifOpstine": "Grude-10306"
+        },
+        {
+          "sifMesta": "13386 ",
+          "nazivMesta": "SOVIĆI",
+          "sifOpstine": "Grude-10306"
+        },
+        {
+          "sifMesta": "10707 ",
+          "nazivMesta": "KOTORSKO",
+          "sifOpstine": "Kotorsko-10327"
+        },
+        {
+          "sifMesta": "10708 ",
+          "nazivMesta": "KREŠEVO",
+          "sifOpstine": "Kreševo-10328"
+        },
+        {
+          "sifMesta": "10744 ",
+          "nazivMesta": "ČAPLJINA",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "13053 ",
+          "nazivMesta": "LOKVE",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "12645 ",
+          "nazivMesta": "DRETELJ",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "12122 ",
+          "nazivMesta": "POČITELJ",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "11611 ",
+          "nazivMesta": "VIŠIĆI",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "11523 ",
+          "nazivMesta": "GRABOVINA",
+          "sifOpstine": "Čapljina-10346"
+        },
+        {
+          "sifMesta": "13150 ",
+          "nazivMesta": "SIRVINO SELO",
+          "sifOpstine": "Vitez-10348"
+        },
+        {
+          "sifMesta": "10745 ",
+          "nazivMesta": "VITEZ",
+          "sifOpstine": "Vitez-10348"
+        },
+        {
+          "sifMesta": "10746 ",
+          "nazivMesta": "POSUŠJE",
+          "sifOpstine": "Posušje-10349"
+        },
+        {
+          "sifMesta": "11757 ",
+          "nazivMesta": "BROĆANAC",
+          "sifOpstine": "Posušje-10349"
+        },
+        {
+          "sifMesta": "11818 ",
+          "nazivMesta": "VIR",
+          "sifOpstine": "Posušje-10349"
+        },
+        {
+          "sifMesta": "11860 ",
+          "nazivMesta": "VINJANI",
+          "sifOpstine": "Posušje-10349"
+        },
+        {
+          "sifMesta": "11861 ",
+          "nazivMesta": "ZAGORJE",
+          "sifOpstine": "Posušje-10349"
+        },
+        {
+          "sifMesta": "12426 ",
+          "nazivMesta": "MEĐUGORJE",
+          "sifOpstine": "Čitluk-10350"
+        },
+        {
+          "sifMesta": "10747 ",
+          "nazivMesta": "ČITLUK",
+          "sifOpstine": "Čitluk-10350"
+        },
+        {
+          "sifMesta": "10748 ",
+          "nazivMesta": "SREBRENIK",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "12585 ",
+          "nazivMesta": "ŠPIONICA GORNJA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "12284 ",
+          "nazivMesta": "ŠPIONICA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11717 ",
+          "nazivMesta": "SLADNA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11687 ",
+          "nazivMesta": "UROŽA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11707 ",
+          "nazivMesta": "STJEPAN II",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11708 ",
+          "nazivMesta": "DONJI SREBRENIK",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11703 ",
+          "nazivMesta": "KUGE",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11580 ",
+          "nazivMesta": "REPATNICA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11567 ",
+          "nazivMesta": "DONJA ŠPIONICA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11564 ",
+          "nazivMesta": "NOVO NASELJE",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11555 ",
+          "nazivMesta": "DUBOKI POTOK",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11525 ",
+          "nazivMesta": "SJEČE",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11531 ",
+          "nazivMesta": "NOVO NASELJE SJEČE",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11360 ",
+          "nazivMesta": "TINJA",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11406 ",
+          "nazivMesta": "PODORAŠJE",
+          "sifOpstine": "Srebrenik-10351"
+        },
+        {
+          "sifMesta": "11288 ",
+          "nazivMesta": "BIHAĆ-KAMENICA",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11448 ",
+          "nazivMesta": "MALA KLADUŠA",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11449 ",
+          "nazivMesta": "RIPAČ",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11613 ",
+          "nazivMesta": "IZAČIĆ",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11633 ",
+          "nazivMesta": "KULEN VAKUF",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11715 ",
+          "nazivMesta": "PRITOKA",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11798 ",
+          "nazivMesta": "VRSTA",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11864 ",
+          "nazivMesta": "BREKOVICA",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "11908 ",
+          "nazivMesta": "ŽEFAR",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "12152 ",
+          "nazivMesta": "OZIMICE 1",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "13105 ",
+          "nazivMesta": "LJUTOČ",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "10764 ",
+          "nazivMesta": "BIHAĆ",
+          "sifOpstine": "Bihać-10366"
+        },
+        {
+          "sifMesta": "10785 ",
+          "nazivMesta": "BOSANSKI PETROVAC",
+          "sifOpstine": "Bosanski Petrovac-10386"
+        },
+        {
+          "sifMesta": "11174 ",
+          "nazivMesta": "KRNJEUŠA",
+          "sifOpstine": "Bosanski Petrovac-10386"
+        },
+        {
+          "sifMesta": "10787 ",
+          "nazivMesta": "JAJCE",
+          "sifOpstine": "Jajce-10407"
+        },
+        {
+          "sifMesta": "10804 ",
+          "nazivMesta": "TOMISLAVGRAD",
+          "sifOpstine": "Tomislavgrad-10426"
+        },
+        {
+          "sifMesta": "12151 ",
+          "nazivMesta": "ŠUJICA",
+          "sifOpstine": "Tomislavgrad-10426"
+        },
+        {
+          "sifMesta": "12121 ",
+          "nazivMesta": "BRIJUNI",
+          "sifOpstine": "Tomislavgrad-10426"
+        },
+        {
+          "sifMesta": "12014 ",
+          "nazivMesta": "MIJAKOVO POLJE",
+          "sifOpstine": "Tomislavgrad-10426"
+        },
+        {
+          "sifMesta": "13052 ",
+          "nazivMesta": "ILINJAČA",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "13131 ",
+          "nazivMesta": "GORNJI KOTORAC",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "11414 ",
+          "nazivMesta": "HREŠA",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "11425 ",
+          "nazivMesta": "SOKOLAC",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "11436 ",
+          "nazivMesta": "LUKAVICA",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "11465 ",
+          "nazivMesta": "DOBRINJA",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "10805 ",
+          "nazivMesta": "ISTOČNO SARAJEVO",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "10890 ",
+          "nazivMesta": "ILIDŽA",
+          "sifOpstine": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "sifMesta": "10826 ",
+          "nazivMesta": "USORA",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "11462 ",
+          "nazivMesta": "MATUZIĆI",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "11353 ",
+          "nazivMesta": "TEŠANJ",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "11688 ",
+          "nazivMesta": "ŠIJE",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "11622 ",
+          "nazivMesta": "DOBRO POLJE",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "13025 ",
+          "nazivMesta": "TEŠANJKA",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "13385 ",
+          "nazivMesta": "JELAH",
+          "sifOpstine": "Tešanj-10428"
+        },
+        {
+          "sifMesta": "11620 ",
+          "nazivMesta": "RADOJČIĆI",
+          "sifOpstine": "Maglaj-10449"
+        },
+        {
+          "sifMesta": "11489 ",
+          "nazivMesta": "NOVI ŠEHER",
+          "sifOpstine": "Maglaj-10449"
+        },
+        {
+          "sifMesta": "10847 ",
+          "nazivMesta": "MAGLAJ",
+          "sifOpstine": "Maglaj-10449"
+        },
+        {
+          "sifMesta": "10888 ",
+          "nazivMesta": "GRAHOVO",
+          "sifOpstine": "Grahovo-10451"
+        },
+        {
+          "sifMesta": "10889 ",
+          "nazivMesta": "KISELJAK",
+          "sifOpstine": "Kiseljak-10452"
+        },
+        {
+          "sifMesta": "11637 ",
+          "nazivMesta": "LEPENICA",
+          "sifOpstine": "Kiseljak-10452"
+        },
+        {
+          "sifMesta": "11882 ",
+          "nazivMesta": "ZELENA MERAJA",
+          "sifOpstine": "Kiseljak-10452"
+        },
+        {
+          "sifMesta": "11480 ",
+          "nazivMesta": "DRVAR SELO",
+          "sifOpstine": "Drvar-10453"
+        },
+        {
+          "sifMesta": "11892 ",
+          "nazivMesta": "MRĐE",
+          "sifOpstine": "Drvar-10453"
+        },
+        {
+          "sifMesta": "12925 ",
+          "nazivMesta": "NOVO NASELJE",
+          "sifOpstine": "Drvar-10453"
+        },
+        {
+          "sifMesta": "10891 ",
+          "nazivMesta": "DRVAR",
+          "sifOpstine": "Drvar-10453"
+        },
+        {
+          "sifMesta": "10931 ",
+          "nazivMesta": "GRADAČAC",
+          "sifOpstine": "Gradačac-10475"
+        },
+        {
+          "sifMesta": "12405 ",
+          "nazivMesta": "VUČKOVCI",
+          "sifOpstine": "Gradačac-10475"
+        },
+        {
+          "sifMesta": "11628 ",
+          "nazivMesta": "HABIBOVIĆI",
+          "sifOpstine": "Gradačac-10475"
+        },
+        {
+          "sifMesta": "11887 ",
+          "nazivMesta": "MALI KABLIĆI",
+          "sifOpstine": "Livno-10476"
+        },
+        {
+          "sifMesta": "10932 ",
+          "nazivMesta": "LIVNO",
+          "sifOpstine": "Livno-10476"
+        },
+        {
+          "sifMesta": "10936 ",
+          "nazivMesta": "VISOKO",
+          "sifOpstine": "Visoko-10477"
+        },
+        {
+          "sifMesta": "11635 ",
+          "nazivMesta": "GRAČANICA",
+          "sifOpstine": "Visoko-10477"
+        },
+        {
+          "sifMesta": "11872 ",
+          "nazivMesta": "UVORIĆI",
+          "sifOpstine": "Visoko-10477"
+        },
+        {
+          "sifMesta": "11458 ",
+          "nazivMesta": "RADOVLJE",
+          "sifOpstine": "Visoko-10477"
+        },
+        {
+          "sifMesta": "11455 ",
+          "nazivMesta": "BEGOV HAN",
+          "sifOpstine": "Žepče-10497"
+        },
+        {
+          "sifMesta": "11573 ",
+          "nazivMesta": "VINIŠTE",
+          "sifOpstine": "Žepče-10497"
+        },
+        {
+          "sifMesta": "11556 ",
+          "nazivMesta": "RADOVLJE",
+          "sifOpstine": "Žepče-10497"
+        },
+        {
+          "sifMesta": "11986 ",
+          "nazivMesta": "OZIMICA",
+          "sifOpstine": "Žepče-10497"
+        },
+        {
+          "sifMesta": "10955 ",
+          "nazivMesta": "ŽEPČE",
+          "sifOpstine": "Žepče-10497"
+        },
+        {
+          "sifMesta": "10957 ",
+          "nazivMesta": "TRAVNIK",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "12028 ",
+          "nazivMesta": "TURBE",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "11552 ",
+          "nazivMesta": "DOLAC",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "11583 ",
+          "nazivMesta": "HAN BILA",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "11819 ",
+          "nazivMesta": "VLAHOVIĆI",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "11700 ",
+          "nazivMesta": "DONJE KRČEVINE",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "11524 ",
+          "nazivMesta": "NOVA BILA",
+          "sifOpstine": "Travnik-10517"
+        },
+        {
+          "sifMesta": "13087 ",
+          "nazivMesta": "GORNJI SVILAJ",
+          "sifOpstine": "Odžak-10519"
+        },
+        {
+          "sifMesta": "10958 ",
+          "nazivMesta": "ODŽAK",
+          "sifOpstine": "Odžak-10519"
+        },
+        {
+          "sifMesta": "11063 ",
+          "nazivMesta": "DONJA MAHALA",
+          "sifOpstine": "Orašje-10639"
+        },
+        {
+          "sifMesta": "11085 ",
+          "nazivMesta": "ORAŠJE",
+          "sifOpstine": "Orašje-10639"
+        },
+        {
+          "sifMesta": "11126 ",
+          "nazivMesta": "ZENICA",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11130 ",
+          "nazivMesta": "ŽEPČE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "13129 ",
+          "nazivMesta": "PUTOVIĆI-PERIN HAN",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "13149 ",
+          "nazivMesta": "VELIKI LISAC",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "12066 ",
+          "nazivMesta": "BABINO POLJE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11991 ",
+          "nazivMesta": "LOKVINE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11981 ",
+          "nazivMesta": "TOPČIĆ POLJE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "12092 ",
+          "nazivMesta": "MOŠĆANICA",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "12465 ",
+          "nazivMesta": "VRSELJE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11501 ",
+          "nazivMesta": "KLOPČE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11502 ",
+          "nazivMesta": "GRADIŠTE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11441 ",
+          "nazivMesta": "VOZUĆA",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11432 ",
+          "nazivMesta": "NEMILA",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11683 ",
+          "nazivMesta": "PUTOVIČKO POLJE",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11820 ",
+          "nazivMesta": "GRM",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11669 ",
+          "nazivMesta": "VAREŠ MAJDAN",
+          "sifOpstine": "Zenica-10640"
+        },
+        {
+          "sifMesta": "11534 ",
+          "nazivMesta": "GORNJA KALESIJA",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11701 ",
+          "nazivMesta": "GORNJI RAHIĆ",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11718 ",
+          "nazivMesta": "DONJE VUKOVIJE",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11719 ",
+          "nazivMesta": "GORNJE VUKOVIJE",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11422 ",
+          "nazivMesta": "TOJŠIĆI",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11267 ",
+          "nazivMesta": "KALESIJA",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11460 ",
+          "nazivMesta": "LIPOVICE",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "12093 ",
+          "nazivMesta": "VUKOVINA",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "12153 ",
+          "nazivMesta": "GORNJI RAINCI",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "11939 ",
+          "nazivMesta": "SAPNA",
+          "sifOpstine": "Kalesija-10661"
+        },
+        {
+          "sifMesta": "12485 ",
+          "nazivMesta": "VITKOVIĆI",
+          "sifOpstine": "Goražde-10682"
+        },
+        {
+          "sifMesta": "11350 ",
+          "nazivMesta": "GORAŽDE",
+          "sifOpstine": "Goražde-10682"
+        },
+        {
+          "sifMesta": "11352 ",
+          "nazivMesta": "USORA",
+          "sifOpstine": "Usora-10683"
+        },
+        {
+          "sifMesta": "11618 ",
+          "nazivMesta": "ŽABLJAK",
+          "sifOpstine": "Usora-10683"
+        },
+        {
+          "sifMesta": "11358 ",
+          "nazivMesta": "ZAVIDOVIĆI",
+          "sifOpstine": "Zavidovići-10684"
+        },
+        {
+          "sifMesta": "11490 ",
+          "nazivMesta": "VOZUĆA",
+          "sifOpstine": "Zavidovići-10684"
+        },
+        {
+          "sifMesta": "11943 ",
+          "nazivMesta": "RIBNICA",
+          "sifOpstine": "Zavidovići-10684"
+        },
+        {
+          "sifMesta": "12069 ",
+          "nazivMesta": "GRIVICE",
+          "sifOpstine": "Banovići-10702"
+        },
+        {
+          "sifMesta": "12070 ",
+          "nazivMesta": "BANOVIĆI SELO",
+          "sifOpstine": "Banovići-10702"
+        },
+        {
+          "sifMesta": "11435 ",
+          "nazivMesta": "ĐURĐEVIK",
+          "sifOpstine": "Banovići-10702"
+        },
+        {
+          "sifMesta": "11430 ",
+          "nazivMesta": "BANOVIĆI",
+          "sifOpstine": "Banovići-10702"
+        },
+        {
+          "sifMesta": "11433 ",
+          "nazivMesta": "BOSANSKA OTOKA",
+          "sifOpstine": "Bosanska Krupa-10703"
+        },
+        {
+          "sifMesta": "11492 ",
+          "nazivMesta": "BOSANSKA KRUPA",
+          "sifOpstine": "Bosanska Krupa-10703"
+        },
+        {
+          "sifMesta": "11710 ",
+          "nazivMesta": "OTOKA",
+          "sifOpstine": "Bosanska Krupa-10703"
+        },
+        {
+          "sifMesta": "12095 ",
+          "nazivMesta": "DONJA SUVAJA",
+          "sifOpstine": "Bosanska Krupa-10703"
+        },
+        {
+          "sifMesta": "11891 ",
+          "nazivMesta": "BRAZA",
+          "sifOpstine": "Breza-10704"
+        },
+        {
+          "sifMesta": "11909 ",
+          "nazivMesta": "POTKRAJ",
+          "sifOpstine": "Breza-10704"
+        },
+        {
+          "sifMesta": "11493 ",
+          "nazivMesta": "GORNJA BREZA",
+          "sifOpstine": "Breza-10704"
+        },
+        {
+          "sifMesta": "11439 ",
+          "nazivMesta": "BREZA",
+          "sifOpstine": "Breza-10704"
+        },
+        {
+          "sifMesta": "11408 ",
+          "nazivMesta": "BUSOVAČA",
+          "sifOpstine": "Busovača-10705"
+        },
+        {
+          "sifMesta": "11438 ",
+          "nazivMesta": "DONJI VAKUF",
+          "sifOpstine": "Donji Vakuf-10706"
+        },
+        {
+          "sifMesta": "11394 ",
+          "nazivMesta": "FOJNICA",
+          "sifOpstine": "Fojnica-10707"
+        },
+        {
+          "sifMesta": "11464 ",
+          "nazivMesta": "GORNJI VAKUF",
+          "sifOpstine": "Gornji Vakuf-10708"
+        },
+        {
+          "sifMesta": "12285 ",
+          "nazivMesta": "VOLJICE",
+          "sifOpstine": "Gornji Vakuf-10708"
+        },
+        {
+          "sifMesta": "11459 ",
+          "nazivMesta": "HRASNICA",
+          "sifOpstine": "Hrasnica-10709"
+        },
+        {
+          "sifMesta": "11533 ",
+          "nazivMesta": "ILIJAŠ",
+          "sifOpstine": "Ilijaš-10710"
+        },
+        {
+          "sifMesta": "11412 ",
+          "nazivMesta": "PODLUGOVI",
+          "sifOpstine": "Ilijaš-10710"
+        },
+        {
+          "sifMesta": "11402 ",
+          "nazivMesta": "JABLANICA",
+          "sifOpstine": "Jablanica-10711"
+        },
+        {
+          "sifMesta": "11443 ",
+          "nazivMesta": "BAĆINA",
+          "sifOpstine": "Jablanica-10711"
+        },
+        {
+          "sifMesta": "12126 ",
+          "nazivMesta": "DOLJANI",
+          "sifOpstine": "Jablanica-10711"
+        },
+        {
+          "sifMesta": "11983 ",
+          "nazivMesta": "OSTROŽAC",
+          "sifOpstine": "Jablanica-10711"
+        },
+        {
+          "sifMesta": "13190 ",
+          "nazivMesta": "KRIŽ",
+          "sifOpstine": "Jablanica-10711"
+        },
+        {
+          "sifMesta": "11467 ",
+          "nazivMesta": "JELAH",
+          "sifOpstine": "Jelah-10712"
+        },
+        {
+          "sifMesta": "11419 ",
+          "nazivMesta": "KAKANJ",
+          "sifOpstine": "Kakanj-10713"
+        },
+        {
+          "sifMesta": "11880 ",
+          "nazivMesta": "KRALJEVA SUTJESKA",
+          "sifOpstine": "Kakanj-10713"
+        },
+        {
+          "sifMesta": "11575 ",
+          "nazivMesta": "POVELJICE",
+          "sifOpstine": "Kakanj-10713"
+        },
+        {
+          "sifMesta": "13207 ",
+          "nazivMesta": "PLANDIŠTE",
+          "sifOpstine": "Kakanj-10713"
+        },
+        {
+          "sifMesta": "13426 ",
+          "nazivMesta": "ĆATIĆI",
+          "sifOpstine": "Kakanj-10713"
+        },
+        {
+          "sifMesta": "11457 ",
+          "nazivMesta": "KIJEVO",
+          "sifOpstine": "Kijevo-10714"
+        },
+        {
+          "sifMesta": "11424 ",
+          "nazivMesta": "KLADANJ",
+          "sifOpstine": "Kladanj-10715"
+        },
+        {
+          "sifMesta": "11536 ",
+          "nazivMesta": "STUPARI",
+          "sifOpstine": "Kladanj-10715"
+        },
+        {
+          "sifMesta": "11537 ",
+          "nazivMesta": "GOJAKOVIĆI",
+          "sifOpstine": "Kladanj-10715"
+        },
+        {
+          "sifMesta": "11553 ",
+          "nazivMesta": "ĐURĐEVIK",
+          "sifOpstine": "Kladanj-10715"
+        },
+        {
+          "sifMesta": "11393 ",
+          "nazivMesta": "KONJIC",
+          "sifOpstine": "Konjic-10716"
+        },
+        {
+          "sifMesta": "11452 ",
+          "nazivMesta": "OSTROŽAC",
+          "sifOpstine": "Konjic-10716"
+        },
+        {
+          "sifMesta": "11469 ",
+          "nazivMesta": "PETROVIĆI",
+          "sifOpstine": "Krupa Na Uni-10717"
+        },
+        {
+          "sifMesta": "11400 ",
+          "nazivMesta": "DONJI DUBOVIK",
+          "sifOpstine": "Krupa Na Uni-10717"
+        },
+        {
+          "sifMesta": "13130 ",
+          "nazivMesta": "DUBOVIK",
+          "sifOpstine": "Krupa Na Uni-10717"
+        },
+        {
+          "sifMesta": "11409 ",
+          "nazivMesta": "GRADIŠKA",
+          "sifOpstine": "Mašići-10718"
+        },
+        {
+          "sifMesta": "11405 ",
+          "nazivMesta": "PROZOR",
+          "sifOpstine": "Prozor - Rama-10719"
+        },
+        {
+          "sifMesta": "13051 ",
+          "nazivMesta": "DOLJANI",
+          "sifOpstine": "Prozor - Rama-10719"
+        },
+        {
+          "sifMesta": "11445 ",
+          "nazivMesta": "RAVNO",
+          "sifOpstine": "Ravno-10720"
+        },
+        {
+          "sifMesta": "11487 ",
+          "nazivMesta": "IVANICA",
+          "sifOpstine": "Ravno-10720"
+        },
+        {
+          "sifMesta": "11450 ",
+          "nazivMesta": "LUŠCI PALANKA",
+          "sifOpstine": "Sanski Most-10721"
+        },
+        {
+          "sifMesta": "11463 ",
+          "nazivMesta": "SANSKI MOST",
+          "sifOpstine": "Sanski Most-10721"
+        },
+        {
+          "sifMesta": "11413 ",
+          "nazivMesta": "STOLAC",
+          "sifOpstine": "Stolac-10722"
+        },
+        {
+          "sifMesta": "11640 ",
+          "nazivMesta": "HUMSKA",
+          "sifOpstine": "Stolac-10722"
+        },
+        {
+          "sifMesta": "12847 ",
+          "nazivMesta": "ŠATOROVA GOMILA",
+          "sifOpstine": "Stolac-10722"
+        },
+        {
+          "sifMesta": "12068 ",
+          "nazivMesta": "STARI TEOČAK",
+          "sifOpstine": "Teočak-10723"
+        },
+        {
+          "sifMesta": "11446 ",
+          "nazivMesta": "TEOČAK",
+          "sifOpstine": "Teočak-10723"
+        },
+        {
+          "sifMesta": "11442 ",
+          "nazivMesta": "TURBE",
+          "sifOpstine": "Turbe-10724"
+        },
+        {
+          "sifMesta": "11398 ",
+          "nazivMesta": "VAREŠ",
+          "sifOpstine": "Vareš-10725"
+        },
+        {
+          "sifMesta": "11415 ",
+          "nazivMesta": "VELIKA KLADUŠA",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "11615 ",
+          "nazivMesta": "ZBORIŠTE",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "11884 ",
+          "nazivMesta": "JOŠE",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "11690 ",
+          "nazivMesta": "BAŠINOVAC",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "11913 ",
+          "nazivMesta": "VRNOGRAČ",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "11914 ",
+          "nazivMesta": "MALA KLADUŠA",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "12367 ",
+          "nazivMesta": "TODOROVO",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "13647 ",
+          "nazivMesta": "VRNOGRAČKA GLAVICA",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "13665 ",
+          "nazivMesta": "SLAPNICA",
+          "sifOpstine": "Velika Kladuša-10726"
+        },
+        {
+          "sifMesta": "13191 ",
+          "nazivMesta": "GORNJI HOTONJ",
+          "sifOpstine": "Vogošća-10727"
+        },
+        {
+          "sifMesta": "11728 ",
+          "nazivMesta": "SARAJEVO",
+          "sifOpstine": "Vogošća-10727"
+        },
+        {
+          "sifMesta": "11407 ",
+          "nazivMesta": "SEMIZOVAC",
+          "sifOpstine": "Vogošća-10727"
+        },
+        {
+          "sifMesta": "11453 ",
+          "nazivMesta": "VOGOŠĆA",
+          "sifOpstine": "Vogošća-10727"
+        },
+        {
+          "sifMesta": "11395 ",
+          "nazivMesta": "VOZUĆA",
+          "sifOpstine": "Vozuća-10728"
+        },
+        {
+          "sifMesta": "11529 ",
+          "nazivMesta": "DONJA VIŠĆA",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11503 ",
+          "nazivMesta": "CILJUGE",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11504 ",
+          "nazivMesta": "PODGAJEVI",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11472 ",
+          "nazivMesta": "Živinice",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11476 ",
+          "nazivMesta": "GRAČANICA SELO",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11477 ",
+          "nazivMesta": "ŠERIĆI",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11479 ",
+          "nazivMesta": "GORNJE DUBRAVE",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11779 ",
+          "nazivMesta": "PAŠCI",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11853 ",
+          "nazivMesta": "BUČIK",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11854 ",
+          "nazivMesta": "LUKAVICA DONJA",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11686 ",
+          "nazivMesta": "SUHA",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11734 ",
+          "nazivMesta": "PRILUK",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11634 ",
+          "nazivMesta": "ĐURĐEVIK",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11642 ",
+          "nazivMesta": "GRAČANICA",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11677 ",
+          "nazivMesta": "ŠIŠIĆI",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11540 ",
+          "nazivMesta": "GORNJA VIŠĆA",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11541 ",
+          "nazivMesta": "GORNJE ŽIVINICE",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11916 ",
+          "nazivMesta": "PAR SELO",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11911 ",
+          "nazivMesta": "DONJE DUBRAVE",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "11988 ",
+          "nazivMesta": "DUBRAVE",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "12024 ",
+          "nazivMesta": "HUSINO",
+          "sifOpstine": "Živinice-10729"
+        },
+        {
+          "sifMesta": "12345 ",
+          "nazivMesta": "DUJKOVAČA",
+          "sifOpstine": "Donji Žabar-10742"
+        },
+        {
+          "sifMesta": "12707 ",
+          "nazivMesta": "ČOVIĆ POLJE",
+          "sifOpstine": "Donji Žabar-10742"
+        },
+        {
+          "sifMesta": "13136 ",
+          "nazivMesta": "OŠTRA LUKA",
+          "sifOpstine": "Donji Žabar-10742"
+        },
+        {
+          "sifMesta": "11530 ",
+          "nazivMesta": "DONJI ŽABAR",
+          "sifOpstine": "Donji Žabar-10742"
+        },
+        {
+          "sifMesta": "11526 ",
+          "nazivMesta": "LONČARI",
+          "sifOpstine": "Donji Žabar-10742"
+        },
+        {
+          "sifMesta": "11554 ",
+          "nazivMesta": "KLOKOTNICA",
+          "sifOpstine": "Doboj Istok-10743"
+        },
+        {
+          "sifMesta": "11572 ",
+          "nazivMesta": "BUŽIM",
+          "sifOpstine": "Bužim-10763"
+        },
+        {
+          "sifMesta": "12118 ",
+          "nazivMesta": "ELKASOVA RIJEKA",
+          "sifOpstine": "Bužim-10763"
+        },
+        {
+          "sifMesta": "13666 ",
+          "nazivMesta": "ČENGIĆ VILA",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "13667 ",
+          "nazivMesta": "NEDŽARIĆI",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "13648 ",
+          "nazivMesta": "VELEŠIĆI",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "13650 ",
+          "nazivMesta": "POFALIĆI",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "13652 ",
+          "nazivMesta": "OTOKA",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "13669 ",
+          "nazivMesta": "HRASNO",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "11581 ",
+          "nazivMesta": "SARAJEVO",
+          "sifOpstine": "Novo Sarajevo-10764"
+        },
+        {
+          "sifMesta": "11614 ",
+          "nazivMesta": "KULEN VAKUF",
+          "sifOpstine": "Kulen Vakuf-10765"
+        },
+        {
+          "sifMesta": "11639 ",
+          "nazivMesta": "OLOVO",
+          "sifOpstine": "Olovo-10785"
+        },
+        {
+          "sifMesta": "12242 ",
+          "nazivMesta": "NIŠIĆI",
+          "sifOpstine": "Olovo-10785"
+        },
+        {
+          "sifMesta": "11643 ",
+          "nazivMesta": "ČELIĆ",
+          "sifOpstine": "Čelić-10786"
+        },
+        {
+          "sifMesta": "11761 ",
+          "nazivMesta": "RATKOVIĆ",
+          "sifOpstine": "Čelić-10786"
+        },
+        {
+          "sifMesta": "11821 ",
+          "nazivMesta": "VRAŽIĆI",
+          "sifOpstine": "Čelić-10786"
+        },
+        {
+          "sifMesta": "11647 ",
+          "nazivMesta": "KLOKOTNICA",
+          "sifOpstine": "Klokotnica-10787"
+        },
+        {
+          "sifMesta": "11648 ",
+          "nazivMesta": "POKRAJČIĆI",
+          "sifOpstine": "Nova Bila-10788"
+        },
+        {
+          "sifMesta": "12201 ",
+          "nazivMesta": "NOVA BILA",
+          "sifOpstine": "Nova Bila-10788"
+        },
+        {
+          "sifMesta": "11667 ",
+          "nazivMesta": "SEMIZOVAC",
+          "sifOpstine": "Semizovac-10807"
+        },
+        {
+          "sifMesta": "11679 ",
+          "nazivMesta": "NEMILA",
+          "sifOpstine": "Nemila-10808"
+        },
+        {
+          "sifMesta": "11681 ",
+          "nazivMesta": "NEUM",
+          "sifOpstine": "Neum-10810"
+        },
+        {
+          "sifMesta": "11711 ",
+          "nazivMesta": "DONJI KLEK",
+          "sifOpstine": "Neum-10810"
+        },
+        {
+          "sifMesta": "12263 ",
+          "nazivMesta": "HUTOVO",
+          "sifOpstine": "Neum-10810"
+        },
+        {
+          "sifMesta": "11727 ",
+          "nazivMesta": "ĐURĐEVIK",
+          "sifOpstine": "Đurđevik-10830"
+        },
+        {
+          "sifMesta": "11877 ",
+          "nazivMesta": "BAJINA BAŠTA",
+          "sifOpstine": "Bajina Bašta-10850"
+        },
+        {
+          "sifMesta": "11878 ",
+          "nazivMesta": "MALI ZVORNIK",
+          "sifOpstine": "Mali Zvornik-10851"
+        },
+        {
+          "sifMesta": "11910 ",
+          "nazivMesta": "MRAVIĆI",
+          "sifOpstine": "Doboj Jug-10852"
+        },
+        {
+          "sifMesta": "12325 ",
+          "nazivMesta": "MATUZIĆI",
+          "sifOpstine": "Doboj Jug-10852"
+        },
+        {
+          "sifMesta": "13085 ",
+          "nazivMesta": "USORA",
+          "sifOpstine": "Doboj Jug-10852"
+        },
+        {
+          "sifMesta": "12222 ",
+          "nazivMesta": "RASTOŠNICA",
+          "sifOpstine": "SAPNA-10853"
+        },
+        {
+          "sifMesta": "12425 ",
+          "nazivMesta": "TEOČAK",
+          "sifOpstine": "SAPNA-10853"
+        },
+        {
+          "sifMesta": "12445 ",
+          "nazivMesta": "SAPNA",
+          "sifOpstine": "SAPNA-10853"
+        },
+        {
+          "sifMesta": "13265 ",
+          "nazivMesta": "KASINDO",
+          "sifOpstine": "Istočna Ilidža-10914"
+        },
+        {
+          "sifMesta": "13505 ",
+          "nazivMesta": "BE HAARLEM",
+          "sifOpstine": "BE HAARLEM-10953"
+        },
+        {
+          "sifMesta": "13658 ",
+          "nazivMesta": "ISTOČNI MOSTAR",
+          "sifOpstine": "Istočni Mostar-10973"
+        }
+      ]
+    },
+    {
+      "naziv": "SifOpstina",
+      "sadrzaj": [
+        {
+          "id": "10850",
+          "naziv": "Bajina Bašta-10850"
+        },
+        {
+          "id": "00262",
+          "naziv": "Banja Luka-00262"
+        },
+        {
+          "id": "10702",
+          "naziv": "Banovići-10702"
+        },
+        {
+          "id": "10953",
+          "naziv": "BE HAARLEM-10953"
+        },
+        {
+          "id": "10366",
+          "naziv": "Bihać-10366"
+        },
+        {
+          "id": "00301",
+          "naziv": "Bijeljina-00301"
+        },
+        {
+          "id": "00302",
+          "naziv": "Bileća-00302"
+        },
+        {
+          "id": "10703",
+          "naziv": "Bosanska Krupa-10703"
+        },
+        {
+          "id": "10386",
+          "naziv": "Bosanski Petrovac-10386"
+        },
+        {
+          "id": "10248",
+          "naziv": "Bosansko Grahovo-10248"
+        },
+        {
+          "id": "00303",
+          "naziv": "Bratunac-00303"
+        },
+        {
+          "id": "00304",
+          "naziv": "Brčko-00304"
+        },
+        {
+          "id": "10704",
+          "naziv": "Breza-10704"
+        },
+        {
+          "id": "10121",
+          "naziv": "Bugojno-10121"
+        },
+        {
+          "id": "10705",
+          "naziv": "Busovača-10705"
+        },
+        {
+          "id": "10763",
+          "naziv": "Bužim-10763"
+        },
+        {
+          "id": "00346",
+          "naziv": "Čajniče-00346"
+        },
+        {
+          "id": "10346",
+          "naziv": "Čapljina-10346"
+        },
+        {
+          "id": "10101",
+          "naziv": "Cazin-10101"
+        },
+        {
+          "id": "10786",
+          "naziv": "Čelić-10786"
+        },
+        {
+          "id": "10001",
+          "naziv": "Čelinac-10001"
+        },
+        {
+          "id": "10350",
+          "naziv": "Čitluk-10350"
+        },
+        {
+          "id": "00305",
+          "naziv": "Derventa-00305"
+        },
+        {
+          "id": "10743",
+          "naziv": "Doboj Istok-10743"
+        },
+        {
+          "id": "10852",
+          "naziv": "Doboj Jug-10852"
+        },
+        {
+          "id": "00306",
+          "naziv": "Doboj-00306"
+        },
+        {
+          "id": "10706",
+          "naziv": "Donji Vakuf-10706"
+        },
+        {
+          "id": "10742",
+          "naziv": "Donji Žabar-10742"
+        },
+        {
+          "id": "10226",
+          "naziv": "Drinić-10226"
+        },
+        {
+          "id": "10453",
+          "naziv": "Drvar-10453"
+        },
+        {
+          "id": "10830",
+          "naziv": "Đurđevik-10830"
+        },
+        {
+          "id": "00329",
+          "naziv": "Foča-00329"
+        },
+        {
+          "id": "10707",
+          "naziv": "Fojnica-10707"
+        },
+        {
+          "id": "00307",
+          "naziv": "Gacko-00307"
+        },
+        {
+          "id": "10247",
+          "naziv": "Glamoč-10247"
+        },
+        {
+          "id": "10682",
+          "naziv": "Goražde-10682"
+        },
+        {
+          "id": "10708",
+          "naziv": "Gornji Vakuf-10708"
+        },
+        {
+          "id": "10225",
+          "naziv": "Gračanica-10225"
+        },
+        {
+          "id": "10475",
+          "naziv": "Gradačac-10475"
+        },
+        {
+          "id": "10008",
+          "naziv": "Gradiška-10008"
+        },
+        {
+          "id": "10451",
+          "naziv": "Grahovo-10451"
+        },
+        {
+          "id": "10306",
+          "naziv": "Grude-10306"
+        },
+        {
+          "id": "10202",
+          "naziv": "Hadžići-10202"
+        },
+        {
+          "id": "00308",
+          "naziv": "Han Pijesak-00308"
+        },
+        {
+          "id": "10709",
+          "naziv": "Hrasnica-10709"
+        },
+        {
+          "id": "10062",
+          "naziv": "Ilidža-10062"
+        },
+        {
+          "id": "10710",
+          "naziv": "Ilijaš-10710"
+        },
+        {
+          "id": "10914",
+          "naziv": "Istočna Ilidža-10914"
+        },
+        {
+          "id": "10250",
+          "naziv": "Istočni Drvar-10250"
+        },
+        {
+          "id": "10973",
+          "naziv": "Istočni Mostar-10973"
+        },
+        {
+          "id": "00335",
+          "naziv": "Istočni Stari Grad-00335"
+        },
+        {
+          "id": "10427",
+          "naziv": "Istočno Novo Sarajevo-10427"
+        },
+        {
+          "id": "10711",
+          "naziv": "Jablanica-10711"
+        },
+        {
+          "id": "10407",
+          "naziv": "Jajce-10407"
+        },
+        {
+          "id": "10712",
+          "naziv": "Jelah-10712"
+        },
+        {
+          "id": "10009",
+          "naziv": "Jezero-10009"
+        },
+        {
+          "id": "10713",
+          "naziv": "Kakanj-10713"
+        },
+        {
+          "id": "10661",
+          "naziv": "Kalesija-10661"
+        },
+        {
+          "id": "00310",
+          "naziv": "Kalinovik-00310"
+        },
+        {
+          "id": "90005",
+          "naziv": "Kanton10-90005"
+        },
+        {
+          "id": "90008",
+          "naziv": "Kanton1-90008"
+        },
+        {
+          "id": "90002",
+          "naziv": "Kanton2-90002"
+        },
+        {
+          "id": "90006",
+          "naziv": "Kanton3-90006"
+        },
+        {
+          "id": "90003",
+          "naziv": "Kanton4-90003"
+        },
+        {
+          "id": "90009",
+          "naziv": "Kanton5-90009"
+        },
+        {
+          "id": "90001",
+          "naziv": "Kanton6-90001"
+        },
+        {
+          "id": "90007",
+          "naziv": "Kanton7-90007"
+        },
+        {
+          "id": "90010",
+          "naziv": "Kanton8-90010"
+        },
+        {
+          "id": "90004",
+          "naziv": "Kanton9-90004"
+        },
+        {
+          "id": "00309",
+          "naziv": "Kasindol-00309"
+        },
+        {
+          "id": "10714",
+          "naziv": "Kijevo-10714"
+        },
+        {
+          "id": "10452",
+          "naziv": "Kiseljak-10452"
+        },
+        {
+          "id": "10715",
+          "naziv": "Kladanj-10715"
+        },
+        {
+          "id": "10246",
+          "naziv": "Ključ-10246"
+        },
+        {
+          "id": "10787",
+          "naziv": "Klokotnica-10787"
+        },
+        {
+          "id": "10010",
+          "naziv": "Kneževo-10010"
+        },
+        {
+          "id": "10716",
+          "naziv": "Konjic-10716"
+        },
+        {
+          "id": "00311",
+          "naziv": "Kostajnica-00311"
+        },
+        {
+          "id": "10011",
+          "naziv": "Kotor Varoš-10011"
+        },
+        {
+          "id": "10327",
+          "naziv": "Kotorsko-10327"
+        },
+        {
+          "id": "00312",
+          "naziv": "Kozarska Dubica-00312"
+        },
+        {
+          "id": "10328",
+          "naziv": "Kreševo-10328"
+        },
+        {
+          "id": "10717",
+          "naziv": "Krupa Na Uni-10717"
+        },
+        {
+          "id": "10765",
+          "naziv": "Kulen Vakuf-10765"
+        },
+        {
+          "id": "10249",
+          "naziv": "Kupres-10249"
+        },
+        {
+          "id": "10012",
+          "naziv": "Laktaši-10012"
+        },
+        {
+          "id": "10476",
+          "naziv": "Livno-10476"
+        },
+        {
+          "id": "00313",
+          "naziv": "Ljubinje-00313"
+        },
+        {
+          "id": "10161",
+          "naziv": "Ljubuški-10161"
+        },
+        {
+          "id": "00314",
+          "naziv": "Lopare-00314"
+        },
+        {
+          "id": "10181",
+          "naziv": "Lukavac-10181"
+        },
+        {
+          "id": "00319",
+          "naziv": "Lukavica-00319"
+        },
+        {
+          "id": "10449",
+          "naziv": "Maglaj-10449"
+        },
+        {
+          "id": "10851",
+          "naziv": "Mali Zvornik-10851"
+        },
+        {
+          "id": "10718",
+          "naziv": "Mašići-10718"
+        },
+        {
+          "id": "00315",
+          "naziv": "Milići-00315"
+        },
+        {
+          "id": "00316",
+          "naziv": "Modriča-00316"
+        },
+        {
+          "id": "10023",
+          "naziv": "Mostar-10023"
+        },
+        {
+          "id": "10013",
+          "naziv": "Mrkonjić-Grad-10013"
+        },
+        {
+          "id": "10808",
+          "naziv": "Nemila-10808"
+        },
+        {
+          "id": "10810",
+          "naziv": "Neum-10810"
+        },
+        {
+          "id": "00317",
+          "naziv": "Nevesinje-00317"
+        },
+        {
+          "id": "10788",
+          "naziv": "Nova Bila-10788"
+        },
+        {
+          "id": "00318",
+          "naziv": "Novi Grad-00318"
+        },
+        {
+          "id": "10286",
+          "naziv": "Novi Travnik-10286"
+        },
+        {
+          "id": "00333",
+          "naziv": "Novo Goražde-00333"
+        },
+        {
+          "id": "10764",
+          "naziv": "Novo Sarajevo-10764"
+        },
+        {
+          "id": "10519",
+          "naziv": "Odžak-10519"
+        },
+        {
+          "id": "10785",
+          "naziv": "Olovo-10785"
+        },
+        {
+          "id": "10639",
+          "naziv": "Orašje-10639"
+        },
+        {
+          "id": "00320",
+          "naziv": "Osmaci-00320"
+        },
+        {
+          "id": "00321",
+          "naziv": "Pale-00321"
+        },
+        {
+          "id": "00322",
+          "naziv": "Pelagićevo-00322"
+        },
+        {
+          "id": "00323",
+          "naziv": "Petrovo-00323"
+        },
+        {
+          "id": "10349",
+          "naziv": "Posušje-10349"
+        },
+        {
+          "id": "00324",
+          "naziv": "Prijedor-00324"
+        },
+        {
+          "id": "10014",
+          "naziv": "Prnjavor-10014"
+        },
+        {
+          "id": "10719",
+          "naziv": "Prozor - Rama-10719"
+        },
+        {
+          "id": "10720",
+          "naziv": "Ravno-10720"
+        },
+        {
+          "id": "10015",
+          "naziv": "Ribnik-10015"
+        },
+        {
+          "id": "00325",
+          "naziv": "Rogatica-00325"
+        },
+        {
+          "id": "00326",
+          "naziv": "Rudo-00326"
+        },
+        {
+          "id": "00344",
+          "naziv": "Šamac-00344"
+        },
+        {
+          "id": "10721",
+          "naziv": "Sanski Most-10721"
+        },
+        {
+          "id": "10853",
+          "naziv": "SAPNA-10853"
+        },
+        {
+          "id": "10021",
+          "naziv": "Sarajevo-10021"
+        },
+        {
+          "id": "00345",
+          "naziv": "Šekovići-00345"
+        },
+        {
+          "id": "10807",
+          "naziv": "Semizovac-10807"
+        },
+        {
+          "id": "10016",
+          "naziv": "Šipovo-10016"
+        },
+        {
+          "id": "10204",
+          "naziv": "Široki Brijeg-10204"
+        },
+        {
+          "id": "00327",
+          "naziv": "Skelani-00327"
+        },
+        {
+          "id": "00328",
+          "naziv": "Sokolac-00328"
+        },
+        {
+          "id": "10017",
+          "naziv": "Srbac-10017"
+        },
+        {
+          "id": "00330",
+          "naziv": "Srebrenica-00330"
+        },
+        {
+          "id": "10351",
+          "naziv": "Srebrenik-10351"
+        },
+        {
+          "id": "00331",
+          "naziv": "Srpski Brod-00331"
+        },
+        {
+          "id": "10266",
+          "naziv": "Srpski Drvar-10266"
+        },
+        {
+          "id": "00332",
+          "naziv": "Srpski Sanski Most-00332"
+        },
+        {
+          "id": "00334",
+          "naziv": "Srpsko Orašje-00334"
+        },
+        {
+          "id": "10722",
+          "naziv": "Stolac-10722"
+        },
+        {
+          "id": "10723",
+          "naziv": "Teočak-10723"
+        },
+        {
+          "id": "10428",
+          "naziv": "Tešanj-10428"
+        },
+        {
+          "id": "00336",
+          "naziv": "Teslić-00336"
+        },
+        {
+          "id": "10426",
+          "naziv": "Tomislavgrad-10426"
+        },
+        {
+          "id": "10517",
+          "naziv": "Travnik-10517"
+        },
+        {
+          "id": "00337",
+          "naziv": "Trebinje-00337"
+        },
+        {
+          "id": "00338",
+          "naziv": "Trnovo-00338"
+        },
+        {
+          "id": "10724",
+          "naziv": "Turbe-10724"
+        },
+        {
+          "id": "10041",
+          "naziv": "Tuzla-10041"
+        },
+        {
+          "id": "00339",
+          "naziv": "Ugljevik-00339"
+        },
+        {
+          "id": "10683",
+          "naziv": "Usora-10683"
+        },
+        {
+          "id": "10725",
+          "naziv": "Vareš-10725"
+        },
+        {
+          "id": "10726",
+          "naziv": "Velika Kladuša-10726"
+        },
+        {
+          "id": "00340",
+          "naziv": "Višegrad-00340"
+        },
+        {
+          "id": "10477",
+          "naziv": "Visoko-10477"
+        },
+        {
+          "id": "10348",
+          "naziv": "Vitez-10348"
+        },
+        {
+          "id": "00341",
+          "naziv": "Vlasenica-00341"
+        },
+        {
+          "id": "10727",
+          "naziv": "Vogošća-10727"
+        },
+        {
+          "id": "10728",
+          "naziv": "Vozuća-10728"
+        },
+        {
+          "id": "00342",
+          "naziv": "Vukosavlje-00342"
+        },
+        {
+          "id": "10684",
+          "naziv": "Zavidovići-10684"
+        },
+        {
+          "id": "10640",
+          "naziv": "Zenica-10640"
+        },
+        {
+          "id": "10497",
+          "naziv": "Žepče-10497"
+        },
+        {
+          "id": "10729",
+          "naziv": "Živinice-10729"
+        },
+        {
+          "id": "00343",
+          "naziv": "Zvornik-00343"
+        }
+      ]
+    }
+  ],
+  "polja": [
+    {
+      "zadId": 10304,
+      "nazivZad": "Šifarnik mesta",
+      "sifObrazacId": 130,
+      "nazivObrasca": "Portal - Šifarnici - Geo šifarnici - Šifarnik mesta",
+      "obrazacTabela": "SIF_MESTA",
+      "obrazacTabelaCc": "SifMesta",
+      "sifPoljaId": 216,
+      "sifTransPolje": "SIF_MESTA.SIF_MESTA",
+      "definicijaTransPolja": "nchar(6)",
+      "nazivPolja": "Šifra mesta",
+      "sifraDefinicijePolja": 13,
+      "definicijaOrigPolja": "nchar(6)",
+      "refTabela": "",
+      "refPolje": "",
+      "refTabelaCc": "",
+      "refPoljeCc": "SifMesta",
+      "dRb": 1,
+      "dObavezno": true,
+      "dEkranskiNazivPolja": "",
+      "dPoreklo": "T/U",
+      "dTipPolja": "S",
+      "dMin": null,
+      "dMax": null,
+      "dFormat": "",
+      "dKontrola": "",
+      "dNapomena": "",
+      "veznoPolje": "PK",
+      "dRbrPrikaza": null,
+      "dNazivPoglavlja": "",
+      "dOpisPoglavlja": "",
+      "dFunSpec": "",
+      "dStampaSpec": "",
+      "dIzvestajSpec": "",
+      "dEkranskiIzgled1": "",
+      "dEkranskiIzgled2": "",
+      "dOpisPoglavljaNad": "",
+      "dNazivPoglavljaNad": "",
+      "dFiksnoPolje": "",
+      "id": 30
+    },
+    {
+      "zadId": 10304,
+      "nazivZad": "Šifarnik mesta",
+      "sifObrazacId": 130,
+      "nazivObrasca": "Portal - Šifarnici - Geo šifarnici - Šifarnik mesta",
+      "obrazacTabela": "SIF_MESTA",
+      "obrazacTabelaCc": "SifMesta",
+      "sifPoljaId": 217,
+      "sifTransPolje": "SIF_MESTA.NAZIV_MESTA",
+      "definicijaTransPolja": "nchar(255)",
+      "nazivPolja": "Naziv mesta",
+      "sifraDefinicijePolja": 10,
+      "definicijaOrigPolja": "nchar(255)",
+      "refTabela": "",
+      "refPolje": "",
+      "refTabelaCc": "",
+      "refPoljeCc": "NazivMesta",
+      "dRb": 2,
+      "dObavezno": true,
+      "dEkranskiNazivPolja": "",
+      "dPoreklo": "T/U",
+      "dTipPolja": "S",
+      "dMin": null,
+      "dMax": null,
+      "dFormat": "",
+      "dKontrola": "",
+      "dNapomena": "",
+      "veznoPolje": "",
+      "dRbrPrikaza": null,
+      "dNazivPoglavlja": "",
+      "dOpisPoglavlja": "",
+      "dFunSpec": "",
+      "dStampaSpec": "",
+      "dIzvestajSpec": "",
+      "dEkranskiIzgled1": "",
+      "dEkranskiIzgled2": "",
+      "dOpisPoglavljaNad": "",
+      "dNazivPoglavljaNad": "",
+      "dFiksnoPolje": "",
+      "id": 31
+    },
+    {
+      "zadId": 10304,
+      "nazivZad": "Šifarnik mesta",
+      "sifObrazacId": 130,
+      "nazivObrasca": "Portal - Šifarnici - Geo šifarnici - Šifarnik mesta",
+      "obrazacTabela": "SIF_MESTA",
+      "obrazacTabelaCc": "SifMesta",
+      "sifPoljaId": 419,
+      "sifTransPolje": "SIF_MESTA.SIF_OPSTINE",
+      "definicijaTransPolja": "nchar(5)",
+      "nazivPolja": "Opština",
+      "sifraDefinicijePolja": 17,
+      "definicijaOrigPolja": "Lista",
+      "refTabela": "SIF_OPSTINA",
+      "refPolje": "SIF_OPSTINA.SIF_OPSTINE,SIF_OPSTINA.NAZIV_OPSTINE+ '-'+ CAST(SIF_OPSTINA.SIF_OPSTINE as varchar)",
+      "refTabelaCc": "SifOpstina",
+      "refPoljeCc": "SifOpstine",
+      "dRb": 3,
+      "dObavezno": true,
+      "dEkranskiNazivPolja": "",
+      "dPoreklo": "",
+      "dTipPolja": "S",
+      "dMin": null,
+      "dMax": null,
+      "dFormat": "",
+      "dKontrola": "",
+      "dNapomena": "",
+      "veznoPolje": "",
+      "dRbrPrikaza": null,
+      "dNazivPoglavlja": "",
+      "dOpisPoglavlja": "",
+      "dFunSpec": "",
+      "dStampaSpec": "",
+      "dIzvestajSpec": "",
+      "dEkranskiIzgled1": "",
+      "dEkranskiIzgled2": "",
+      "dOpisPoglavljaNad": "",
+      "dNazivPoglavljaNad": "",
+      "dFiksnoPolje": "",
+      "id": 32
+    }
+  ],
+  "breadcrumb": [
+    {
+      "zadId": 1,
+      "nazivZad": "Portal"
+    },
+    {
+      "zadId": 10,
+      "nazivZad": "Šifarnici"
+    },
+    {
+      "zadId": 103,
+      "nazivZad": "Geo šifarnici"
+    },
+    {
+      "zadId": 10304,
+      "nazivZad": "Šifarnik mesta"
+    }
+  ],
+  "zadId": 10304,
+  "nadredjeniZad": 103,
+  "nazivZad": "Šifarnik mesta",
+  "nazivZadKratko": "Šifarnik mesta",
+  "indNavigacija": 1,
+  "urlForme": null,
+  "stateForme": null,
+  "ctrlForme": null,
+  "idAktivan": 0,
+  "datumAzurno": "2016-03-24T13:40:26.87",
+  "redPrikaza": 10304,
+  "tooltip": "Šifarnik mesta",
+  "zadIdOld": null,
+  "dRbrPrikaza": null,
+  "dNazivPoglavljaNad": null,
+  "dOpisPoglavljaNad": null,
+  "dNazivPoglavlja": null,
+  "dOpisPoglavlja": null,
+  "dFunSpec": null,
+  "dStampaSpec": null,
+  "dIzvestajSpec": null,
+  "dEkranskiIzgled1": null,
+  "dEkranskiIzgled2": null
+}

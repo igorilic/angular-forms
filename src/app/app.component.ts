@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { DynamicFormComponent } from './dynamic-form/index';
+// import { DynamicFormComponent } from './dynamic-form/index';
 import { QuestionServiceService} from './shared/index';
 
 @Component({
@@ -7,8 +7,8 @@ import { QuestionServiceService} from './shared/index';
   selector: 'app-root',
   templateUrl: 'app.component.html',
   styleUrls: ['app.component.css'],
-  providers: [QuestionServiceService],
-  directives: [DynamicFormComponent]
+  providers: [QuestionServiceService]
+  // directives: [DynamicFormComponent]
 })
 export class AppComponent {
   

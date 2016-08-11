@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { FormGroup, REACTIVE_FORM_DIRECTIVES } from '@angular/forms';
+import { FormGroup } from '@angular/forms';
 
 import { QuestionBase } from '../models/index';
 
@@ -7,8 +7,8 @@ import { QuestionBase } from '../models/index';
   moduleId: module.id,
   selector: 'df-question',
   templateUrl: 'dynamic-form-question.component.html',
-  styleUrls: ['dynamic-form-question.component.css'],
-  directives: [REACTIVE_FORM_DIRECTIVES]
+  styleUrls: ['dynamic-form-question.component.css']
+  // directives: [REACTIVE_FORM_DIRECTIVES]
 })
 export class DynamicFormQuestionComponent{
   @Input() question: QuestionBase<any>;
